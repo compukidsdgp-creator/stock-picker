@@ -25,7 +25,7 @@ import news
 import vetting
 
 OUT_DIR = "data"
-TRUST_MIN_SCORE = 5
+TRUST_MIN_SCORE = 4
 
 
 def _baseline() -> pd.DataFrame:
