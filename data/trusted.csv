@@ -1,0 +1,125 @@
+date,ticker,score,verdict,s1_trend,s2_fund,s3_risk,s4_news,entry,stop,target_1r,target_2r,why,headline
+2026-08-21,JKPAPER,5,DROP,False,False,True,True,391.8,375.0,408.6,425.4,"failed: Trend & RS, Fundamentals",Is It Smart To Buy JK Paper Limited (NSE:JKPAPER) Before It Goes Ex-Dividend? - simplywall.st
+2026-08-21,SOTL,4,DROP,True,False,False,True,677.3,666.95,687.65,698.0,"failed: Fundamentals, Risk",Savita Oil Technologies (NSE:SOTL) Could Be A Buy For Its Upcoming Dividend - simplywall.st
+2026-08-21,KEI,4,DROP,True,False,True,True,5527.6,5492.6,5562.6,5597.6,failed: Fundamentals,KEI Industries shares up 5% as Q1 profit jumps 40%; board approves ₹700cr capacity expansion - Moneycontrol.com
+2026-08-21,GULFOILLUB,4,DROP,False,False,True,True,1139.9,1129.0,1150.8,1161.7,"failed: Trend & RS, Fundamentals",Copy of Newspaper Publication
+2026-08-21,FACT,4,DROP,False,False,True,True,783.3,771.0,795.6,807.9,"failed: Trend & RS, Fundamentals",Fertilizers and Chemicals Travancore Share: PSU Buy in 2026? - Univest
+2026-08-21,GRAPHITE,4,DROP,True,False,True,True,710.75,703.41,718.09,725.43,failed: Fundamentals,GRAPHITE Forecast — Price Target — Prediction for 2027 - TradingView
+2026-08-21,TATATECH,4,DROP,True,False,True,True,820.75,805.95,835.55,850.35,failed: Fundamentals,Tata Technologies Limited's (NSE:TATATECH) Price Is Out Of Tune With Earnings - simplywall.st
+2026-08-21,ASKAUTOLTD,4,DROP,True,False,True,True,621.15,606.37,635.93,650.7,failed: Fundamentals,ASKAUTOLTD Forecast — Price Target — Prediction for 2027 - TradingView
+2026-08-21,SYRMA,4,DROP,True,False,True,True,1439.3,1415.7,1462.9,1486.5,failed: Fundamentals,Syrma SGS Technology Limited Beat Revenue Forecasts By 16%: Here's What Analysts Are Forecasting Next - simplywall.st
+2026-08-21,GARUDA,4,DROP,False,False,False,True,183.95,180.01,187.89,191.83,"failed: Trend & RS, Fundamentals, Risk",Garuda Construction and Engineering share: EPC Infrastructure Buy in 2026? - Univest
+2026-08-21,PANAMAPET,4,DROP,True,False,False,True,485.2,456.45,513.95,542.7,"failed: Fundamentals, Risk",Additional Considerations Required While Assessing Panama Petrochem's (NSE:PANAMAPET) Strong Earnings - simplywall.st
+2026-08-21,LALPATHLAB,4,DROP,True,False,True,True,1894.2,1870.1,1918.3,1942.4,failed: Fundamentals,General Updates
+2026-08-21,NAVINFLUOR,4,DROP,True,False,True,True,8206.5,8058.62,8354.38,8502.27,failed: Fundamentals,NAVINFLUOR Forecast — Price Target — Prediction for 2027 - TradingView
+2026-08-21,BAJFINANCE,4,DROP,True,False,True,True,1095.0,1070.8,1119.2,1143.4,failed: Fundamentals,BAJFINANCE Forecast — Price Target — Prediction for 2027 - TradingView
+2026-08-21,PARADEEP,4,DROP,False,True,True,True,148.48,145.07,151.89,155.3,failed: Trend & RS,Action(s) initiated or orders passed
+2026-08-21,ASHOKLEY,4,DROP,False,False,True,True,173.0,169.75,176.25,179.5,"failed: Trend & RS, Fundamentals",Analysts/Institutional Investor Meet/Con. Call Updates
+2026-08-21,M&M,4,DROP,False,True,True,True,3412.2,3371.1,3453.3,3494.4,failed: Trend & RS,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-08-21,OLECTRA,4,DROP,False,False,True,True,1318.4,1284.0,1352.8,1387.2,"failed: Trend & RS, Fundamentals",Analysts/Institutional Investor Meet/Con. Call Updates
+2026-08-21,BLUEJET,4,DROP,False,False,False,True,596.15,578.55,613.75,631.35,"failed: Trend & RS, Fundamentals, Risk",Copy of Newspaper Publication
+2026-08-21,KEC,4,DROP,False,False,True,True,435.95,418.0,453.9,471.85,"failed: Trend & RS, Fundamentals",Shareholders meeting
+2026-08-21,BAJAJHLDNG,4,DROP,False,False,True,True,11320.0,11211.0,11429.0,11538.0,"failed: Trend & RS, Fundamentals",Bajaj Holdings & Investment Ltd. Price Action: 3.64% Rise - Univest
+2026-08-21,AARTIDRUGS,4,DROP,False,False,True,True,417.4,404.5,430.3,443.2,"failed: Trend & RS, Fundamentals",Investors Don't See Light At End Of Aarti Drugs Limited's (NSE:AARTIDRUGS) Tunnel And Push Stock Down 25% - simplywall.st
+2026-08-21,SIEMENS,4,DROP,True,False,True,True,3920.0,3854.6,3985.4,4050.8,failed: Fundamentals,Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company
+2026-08-21,POWERINDIA,4,DROP,True,False,True,True,34190.0,33250.0,35130.0,36070.0,failed: Fundamentals,"₹30,379 - That's What Analysts Think Hitachi Energy India Limited (NSE:POWERINDIA) Is Worth After These Results - simplywall.st"
+2026-08-21,GRWRHITECH,4,DROP,True,True,False,True,7123.5,6780.5,7466.5,7809.5,failed: Risk,Garware Hi-Tech Films Limited (NSE:GRWRHITECH) Stock Rockets 39% As Investors Are Less Pessimistic Than Expected - simplywall.st
+2026-08-21,ATHERENERG,4,DROP,True,False,False,True,1462.0,1415.21,1508.79,1555.59,"failed: Fundamentals, Risk",Analysts/Institutional Investor Meet/Con. Call Updates
+2026-08-21,SMLMAH,4,DROP,True,False,False,True,5324.0,5060.5,5587.5,5851.0,"failed: Fundamentals, Risk",Here's Why SML Mahindra (NSE:SMLMAH) Has Caught The Eye Of Investors - simplywall.st
+2026-08-21,KALYANKJIL,4,DROP,True,True,False,True,603.55,585.05,622.05,640.55,failed: Risk,General Updates
+2026-08-21,ROSSTECH,4,DROP,True,False,False,True,1074.2,1032.55,1115.85,1157.5,"failed: Fundamentals, Risk",Here's Why We Think Rossell Techsys (NSE:ROSSTECH) Is Well Worth Watching - simplywall.st
+2026-08-21,INDIANB,4,DROP,False,True,True,True,876.9,865.0,888.8,900.7,failed: Trend & RS,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-08-21,CUB,4,DROP,False,True,True,False,217.3,204.81,229.79,242.28,"failed: Trend & RS, News",City Union Bank Share Price Up 3.06%: Price Action View - Univest
+2026-08-21,VIMTALABS,4,DROP,False,True,False,True,629.65,609.05,650.25,670.85,"failed: Trend & RS, Risk",Updates
+2026-08-21,LAURUSLABS,4,DROP,True,False,True,True,1802.0,1769.4,1834.6,1867.2,failed: Fundamentals,LAURUSLABS Forecast — Price Target — Prediction for 2027 - TradingView
+2026-08-21,JSWINFRA,4,DROP,True,False,True,True,335.7,326.4,345.0,354.3,failed: Fundamentals,Credit Rating
+2026-08-21,EICHERMOT,4,DROP,False,True,True,True,8010.0,7934.29,8085.71,8161.42,failed: Trend & RS,General Updates
+2026-08-21,UNIONBANK,4,DROP,False,True,True,True,183.45,179.88,187.02,190.59,failed: Trend & RS,Credit Rating- New
+2026-08-21,RISHABH,4,DROP,True,True,False,True,669.3,620.0,718.6,767.9,failed: Risk,Rumour Verification - Regulation 30(11)
+2026-08-21,MANAPPURAM,4,DROP,True,False,True,True,357.5,336.4,378.6,399.7,failed: Fundamentals,"Despite the downward trend in earnings at Manappuram Finance (NSE:MANAPPURAM) the stock lifts 4.0%, bringing three-year gains to 180% - simplywall.st"
+2026-08-21,HOMEFIRST,4,DROP,False,False,True,True,1193.7,1162.8,1224.6,1255.5,"failed: Trend & RS, Fundamentals",Issue of Securities
+2026-08-21,GARFIBRES,4,DROP,True,True,False,True,802.6,739.05,866.15,929.7,failed: Risk,"GARFIBRES Mar 2026 Earnings: Solid Revenue of ₹371 Crore, EPS at ₹5.52 - Financial Health Score - Vinanet"
+2026-08-21,PRESTIGE,4,DROP,False,False,True,True,1631.0,1555.3,1706.7,1782.4,"failed: Trend & RS, Fundamentals",Shareholders meeting
+2026-08-21,APOLLOTYRE,4,DROP,False,True,True,True,439.7,426.5,452.9,466.1,failed: Trend & RS,APOLLOTYRE Forecast — Price Target — Prediction for 2027 - TradingView
+2026-08-21,CLSEL,4,DROP,True,True,False,True,288.35,270.3,306.4,324.45,failed: Risk,Chaman Lal Setia Exports (CLSEL) Declines 4% Amid Profit Booking; Support at ₹254 in Focus - Pullback Trade - Vinanet
+2026-08-21,MOLDTKPAC,4,DROP,False,True,True,True,708.95,664.5,753.4,797.85,failed: Trend & RS,MOLDTKPAC Forecast — Price Target — Prediction for 2027 - TradingView
+2026-08-21,GALAPREC,4,DROP,False,True,False,True,1089.3,961.1,1217.5,1345.7,"failed: Trend & RS, Risk","Gala Precision Engineering Share Price Target 2026: Rs 1,050 Analyst Forecast - Univest"
+2026-08-21,INDIANHUME,4,DROP,True,True,False,True,392.55,355.7,429.4,466.25,failed: Risk,Indian Hume Pipe Company Q1 FY27 Results Preview - Univest
+2026-08-21,BAJEL,4,DROP,False,False,False,True,191.78,179.41,204.15,216.52,"failed: Trend & RS, Fundamentals, Risk",Press Release
+2026-08-21,PNB,4,DROP,False,True,True,True,116.55,112.3,120.8,125.05,failed: Trend & RS,Action(s) initiated or orders passed
+2026-08-21,IOLCP,4,DROP,True,True,False,True,169.52,155.0,184.04,198.56,failed: Risk,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-08-21,KSL,4,DROP,True,False,False,True,881.15,816.0,946.3,1011.45,"failed: Fundamentals, Risk",Copy of Newspaper Publication
+2026-08-21,PARAGMILK,4,DROP,False,False,False,True,225.5,205.0,246.0,266.5,"failed: Trend & RS, Fundamentals, Risk",Here's Why Parag Milk Foods (NSE:PARAGMILK) Has Caught The Eye Of Investors - simplywall.st
+2026-08-21,SIGMAADV,4,DROP,True,False,False,True,688.2,622.0,754.4,820.6,"failed: Fundamentals, Risk",We Don’t Think Sigma Advanced Systems' (NSE:SIGMAADV) Earnings Should Make Shareholders Too Comfortable - simplywall.st
+2026-08-21,RIIL,4,DROP,False,False,False,True,786.1,729.0,843.2,900.3,"failed: Trend & RS, Fundamentals, Risk",Reliance Industrial Infrastructure's (NSE:RIIL) 16% CAGR outpaced the company's earnings growth over the same five-year period - simplywall.st
+2026-08-21,AEGISLOG,4,DROP,True,True,False,True,1417.9,1241.5,1594.3,1770.7,failed: Risk,General Updates
+2026-08-21,PFOCUS,4,DROP,True,False,False,True,296.95,263.3,330.6,364.25,"failed: Fundamentals, Risk",Prime Focus (NSE:PFOCUS) Posted Healthy Earnings But There Are Some Other Factors To Be Aware Of - simplywall.st
+2026-08-21,CARBORUNIV,4,DROP,True,False,True,True,1169.8,1077.7,1261.9,1354.0,failed: Fundamentals,Carborundum Universal's (NSE:CARBORUNIV) Soft Earnings Are Actually Better Than They Appear - simplywall.st
+2026-08-21,PREMIERENE,4,DROP,False,True,True,True,1053.0,1002.0,1104.0,1155.0,failed: Trend & RS,Premier Energies Limited (NSE:PREMIERENE) Just Released Its First-Quarter Results And Analysts Are Updating Their Estimates - simplywall.st
+2026-08-21,DATAPATTNS,4,DROP,True,False,False,True,4829.9,4362.3,5297.5,5765.1,"failed: Fundamentals, Risk",Bagging/Receiving of orders/contracts
+2026-08-21,TBZ,4,DROP,True,True,False,True,279.5,232.5,326.5,373.5,failed: Risk,Tribhovandas Bhimji Zaveri Share Price Target 2026: Rs 230 Analyst Forecast - Univest
+2026-08-21,EDELWEISS,4,DROP,True,False,True,True,128.68,117.2,140.16,151.64,failed: Fundamentals,Why Is Edelweiss Financial Services Share Price Falling: Key Reasons and Investor Analysis 2026 - Univest
+2026-08-21,WELENT,4,DROP,True,False,True,True,631.45,557.1,705.8,780.15,failed: Fundamentals,Spurt in Volume
+2026-08-21,HINDZINC,4,DROP,False,True,True,True,594.9,548.8,641.0,687.1,failed: Trend & RS,Hindustan Zinc Share Price Falls 4% Today on Stake Sale Report - Univest
+2026-08-21,VMART,4,DROP,False,True,True,True,838.85,766.75,910.95,983.05,failed: Trend & RS,Spurt in Volume
+2026-08-21,AMRUTANJAN,4,DROP,False,False,False,True,536.35,482.8,589.9,643.45,"failed: Trend & RS, Fundamentals, Risk",Quant MF raises Pfizer stake with Rs 131 cr purchase; Pari Washington buys over 2% in Amrutanjan Health... - Moneycontrol.com
+2026-08-21,JBMA,4,DROP,False,False,True,True,673.95,614.1,733.8,793.65,"failed: Trend & RS, Fundamentals",News Verification
+2026-08-21,CARTRADE,4,DROP,True,True,False,True,3072.9,2690.9,3454.9,3836.9,failed: Risk,Institutional investors control 57% of CarTrade Tech Limited (NSE:CARTRADE) and were rewarded last week after stock increased 8.3% - simplywall.st
+2026-08-21,JINDALSAW,4,DROP,True,False,False,True,291.65,263.15,320.15,348.65,"failed: Fundamentals, Risk",JINDALSAW Forecast — Price Target — Prediction for 2027 - TradingView
+2026-08-21,CDSL,4,DROP,False,False,True,True,1388.9,1318.2,1459.6,1530.3,"failed: Trend & RS, Fundamentals",Should You Buy Central Depository Services (India) Limited (NSE:CDSL) For Its Upcoming Dividend? - simplywall.st
+2026-08-21,SHRIPISTON,4,DROP,True,False,True,True,4600.1,4341.0,4859.2,5118.3,failed: Fundamentals,Qualified Institutional Placement
+2026-08-21,NCC,4,DROP,False,True,True,True,149.56,138.24,160.88,172.2,failed: Trend & RS,"NCC share price drops 10%, hits over 2-year low on NHAI debarment order - Business Standard"
+2026-08-21,THOMASCOOK,4,DROP,False,False,True,True,113.17,97.3,129.04,144.91,"failed: Trend & RS, Fundamentals",Spurt in Volume
+2026-08-21,MAWANASUG,4,DROP,True,True,False,True,152.54,109.74,195.34,238.14,failed: Risk,Copy of Newspaper Publication
+2026-08-21,INDOTECH,4,DROP,True,True,False,True,3902.5,3376.1,4428.9,4955.3,failed: Risk,IIFL Asset Management picks up nearly 2% stake in Indo Tech Transformers from promoter - Moneycontrol.com
+2026-08-21,KRONOX,4,DROP,True,True,False,True,215.18,144.41,285.95,356.72,failed: Risk,Updates
+2026-08-21,SMARTWORKS,4,DROP,False,False,False,True,523.25,470.1,576.4,629.55,"failed: Trend & RS, Fundamentals, Risk",Smartworks Coworking Spaces' (NSE:SMARTWORKS) Strong Earnings Are Of Good Quality - simplywall.st
+2026-08-21,ALKYLAMINE,4,DROP,True,False,True,True,2052.7,1867.2,2238.2,2423.7,failed: Fundamentals,Copy of Newspaper Publication
+2026-08-21,IIFL,4,DROP,True,False,True,True,679.8,612.95,746.65,813.5,failed: Fundamentals,Credit Rating
+2026-08-21,INDOBORAX,4,DROP,True,True,False,True,511.85,398.2,625.5,739.15,failed: Risk,Press Release
+2026-08-21,MANINDS,4,DROP,True,True,False,False,715.4,543.15,887.65,1059.9,"failed: Risk, News",Downgrade: Here's How This Analyst Sees Man Industries (India) Limited (NSE:MANINDS) Performing In The Near Term - simplywall.st
+2026-08-21,MOTILALOFS,4,DROP,False,False,True,True,990.0,862.0,1118.0,1246.0,"failed: Trend & RS, Fundamentals","Motilal Oswal Financial Services (NSE:MOTILALOFS) sheds 3.9% this week, as yearly returns fall more in line with earnings growth - simplywall.st"
+2026-08-21,WONDERLA,4,DROP,False,True,False,True,519.2,461.0,577.4,635.6,"failed: Trend & RS, Risk",Credit Rating
+2026-08-21,AGI,4,DROP,False,True,True,True,753.6,698.0,809.2,864.8,failed: Trend & RS,Spurt in Volume
+2026-08-21,ARIS,4,DROP,False,True,False,True,143.41,131.23,155.59,167.77,"failed: Trend & RS, Risk",Arisinfra Solutions' (NSE:ARIS) Performance Is Even Better Than Its Earnings Suggest - simplywall.st
+2026-08-21,NETWEB,4,DROP,True,False,False,True,5601.0,4753.0,6449.0,7297.0,"failed: Fundamentals, Risk",Allotment of Securities
+2026-08-21,AVADHSUGAR,4,DROP,True,True,False,True,834.8,610.0,1059.6,1284.4,failed: Risk,Avadh Sugar & Energy Ltd. Share Price: Price Rise Analysis - Univest
+2026-08-21,AEROENTER,4,DROP,True,True,False,True,140.07,121.31,158.83,177.59,failed: Risk,Aeroflex Enterprises Share Price Target 2026: Rs 120 Analyst Forecast - Univest
+2026-08-21,BALUFORGE,4,DROP,False,True,False,True,555.4,441.55,669.25,783.1,"failed: Trend & RS, Risk",Solid Earnings May Not Tell The Whole Story For Balu Forge Industries (NSE:BALUFORGE) - simplywall.st
+2026-08-21,HAPPSTMNDS,4,DROP,False,True,True,True,444.55,384.75,504.35,564.15,failed: Trend & RS,Happiest Minds Technologies Limited (NSE:HAPPSTMNDS) Just Reported First-Quarter Earnings: Have Analysts Changed Their Mind On The Stock? - simplywall.st
+2026-08-21,KABRAEXTRU,4,DROP,True,False,False,True,566.2,433.35,699.05,831.9,"failed: Fundamentals, Risk",General Updates
+2026-08-21,WELCORP,4,DROP,True,True,False,True,2311.9,1815.2,2808.6,3305.3,failed: Risk,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-08-21,DCBBANK,4,DROP,True,True,True,False,203.59,180.0,227.18,250.77,failed: News,"DCB Bank soars 10% on huge volume, nears 52-week high post Q1 results - Business Standard"
+2026-08-21,BRIGADE,4,DROP,False,True,True,True,639.3,576.0,702.6,765.9,failed: Trend & RS,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-08-21,MANGLMCEM,4,DROP,True,False,False,True,1027.95,861.3,1194.6,1361.25,"failed: Fundamentals, Risk",Shareholders meeting
+2026-08-21,BLUSPRING,4,DROP,True,False,False,True,128.98,107.26,150.7,172.42,"failed: Fundamentals, Risk","Bluspring Enterprises shares rally 10% to hit 52-week high as arm bags ₹1,437 crore order from Vedanta firm - Upstox"
+2026-08-21,KIRIINDUS,4,DROP,False,True,False,True,477.9,403.8,552.0,626.1,"failed: Trend & RS, Risk",Spurt in Volume
+2026-08-21,SUDARSCHEM,4,DROP,False,False,True,True,1215.1,1013.7,1416.5,1617.9,"failed: Trend & RS, Fundamentals",Analysts/Institutional Investor Meet/Con. Call Updates
+2026-08-21,THELEELA,4,DROP,True,True,True,False,561.7,494.4,629.0,696.3,failed: News,Leela Hotels share price: Schloss Bangalore stock lists at over 6% discount; here's how much investors lost per lot - Upstox
+2026-08-21,RPEL,4,DROP,True,False,False,True,1689.8,1249.5,2130.1,2570.4,"failed: Fundamentals, Risk",General Updates
+2026-08-21,JYOTICNC,4,DROP,False,False,True,True,988.8,775.2,1202.4,1416.0,"failed: Trend & RS, Fundamentals",Analysts/Institutional Investor Meet/Con. Call Updates
+2026-08-21,AUBANK,4,DROP,True,True,True,False,1108.2,1048.3,1168.1,1228.0,failed: News,AUBANK Forecast — Price Target — Prediction for 2027 - TradingView
+2026-08-21,QUADFUTURE,4,DROP,False,False,False,True,405.35,334.45,476.25,547.15,"failed: Trend & RS, Fundamentals, Risk",QUADFUTURE Mar 2026 Earnings: Modest EPS of ₹0.28 on Revenue of ₹56.56 Crore - Guidance Update - Vinanet
+2026-08-21,SHANTIGEAR,4,DROP,False,False,False,True,464.25,384.0,544.5,624.75,"failed: Trend & RS, Fundamentals, Risk",Shanthi Gears Limited Mar 2026 Earnings: Modest Revenue and EPS Performance Amid Stable Operations - Quarterly Financial Update - Vinanet
+2026-08-21,VADILALIND,4,TRUST,True,True,True,True,7417.5,7072.0,7763.0,8108.5,cleared all 5 gates,Is Vadilal Industries (NSE:VADILALIND) A Risky Investment? - simplywall.st
+2026-08-21,AUROPHARMA,4,TRUST,True,True,True,True,1621.3,1600.0,1642.6,1663.9,cleared all 5 gates,General Updates
+2026-08-21,HINDALCO,4,TRUST,True,True,True,True,1034.0,1013.0,1055.0,1076.0,cleared all 5 gates,Acquisition
+2026-08-21,APCOTEXIND,4,TRUST,True,True,True,True,625.05,586.1,664.0,702.95,cleared all 5 gates,Apcotex Industries Limited (NSE:APCOTEXIND) Analysts Are Pretty Bullish On The Stock After Recent Results - simplywall.st
+2026-08-21,YATHARTH,4,TRUST,True,True,True,True,855.15,824.0,886.3,917.45,cleared all 5 gates,General Updates
+2026-08-21,STYLAMIND,4,TRUST,True,True,True,True,3601.7,3484.8,3718.6,3835.5,cleared all 5 gates,STYLAMIND Forecast — Price Target — Prediction for 2027 - TradingView
+2026-08-21,GRASIM,4,TRUST,True,True,True,True,3308.0,3201.0,3415.0,3522.0,cleared all 5 gates,Shareholders meeting
+2026-08-21,JSWSTEEL,4,TRUST,True,True,True,True,1293.7,1250.4,1337.0,1380.3,cleared all 5 gates,We Think That There Are Issues Underlying JSW Steel's (NSE:JSWSTEEL) Earnings - simplywall.st
+2026-08-21,FEDERALBNK,4,TRUST,True,True,True,True,361.0,349.65,372.35,383.7,cleared all 5 gates,General Updates
+2026-08-21,ENGINERSIN,4,TRUST,True,True,True,True,244.91,235.34,254.48,264.05,cleared all 5 gates,Copy of Newspaper Publication
+2026-08-21,MAHSEAMLES,4,TRUST,True,True,True,True,634.15,589.2,679.1,724.05,cleared all 5 gates,Copy of Newspaper Publication
+2026-08-21,RATEGAIN,4,TRUST,True,True,True,True,990.05,878.65,1101.45,1212.85,cleared all 5 gates,General Updates
+2026-08-21,INDIAGLYCO,4,TRUST,True,True,True,True,1146.5,1044.0,1249.0,1351.5,cleared all 5 gates,Record Date
+2026-08-21,JSFB,4,TRUST,True,True,True,True,582.35,519.0,645.7,709.05,cleared all 5 gates,JSFB Forecast — Price Target — Prediction for 2027 - TradingView
+2026-08-21,VINCOFE,4,TRUST,True,True,True,True,161.55,143.4,179.7,197.85,cleared all 5 gates,Monitoring Agency Report
+2026-08-21,KDDL,4,TRUST,True,True,True,True,4005.4,3510.0,4500.8,4996.2,cleared all 5 gates,KDDL Forecast — Price Target — Prediction for 2027 - TradingView
+2026-08-21,GRAVITA,4,TRUST,True,True,True,True,1821.7,1737.0,1906.4,1991.1,cleared all 5 gates,Committee Meeting Updates
+2026-08-21,VIYASH,4,TRUST,True,True,True,True,275.95,245.3,306.6,337.25,cleared all 5 gates,Viyash Scientific's (NSE:VIYASH) Earnings Are Of Questionable Quality - simplywall.st
+2026-08-21,UNITDSPR,4,TRUST,True,True,True,True,1556.0,1503.0,1609.0,1662.0,cleared all 5 gates,Action(s) taken or orders passed
+2026-08-21,VOLTAMP,4,TRUST,True,True,True,True,10869.5,9950.0,11789.0,12708.5,cleared all 5 gates,VOLTAMP Forecast — Price Target — Prediction for 2027 - TradingView
+2026-08-21,SHANTIGOLD,4,TRUST,True,True,True,True,269.58,218.13,321.03,372.48,cleared all 5 gates,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-08-21,MCX,4,TRUST,True,True,True,True,3185.0,2603.2,3766.8,4348.6,cleared all 5 gates,"BSE, MCX shares decline up to 3% post-Q1 results: Here's why - Moneycontrol.com"
