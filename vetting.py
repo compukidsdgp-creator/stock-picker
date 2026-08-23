@@ -18,24 +18,40 @@ RED_FLAG_WORDS = ("fraud", "probe", "sebi", "penalty", "raid", "default",
 
 
 # ---------------------------------------------------------------- stage 1
-def stage1_trend(hist: pd.DataFrame, index_ret126: float) -> tuple[bool, dict]:
-    """Healthy, confirmed uptrend that is beating the market."""
-    c = hist["close"]
+def stage1_trend(hist: pd.DataFrame, index_ret126: float,
+                 horizon: str = "swing") -> tuple[bool, dict]:
+    """Trend health. 'swing' demands near-term momentum + market-beating RS;
+    'quarter' only needs a structural uptrend (above 200 DMA, 200 DMA rising),
+    so a strong quarterly name in a near-term pullback isn't rejected."""
+    c = hist["close"].dropna()
+    if len(c) < 200:
+        return False, {"reason": f"insufficient history ({len(c)} bars, need 200)",
+                       "px": float(c.iloc[-1]) if len(c) else None}
     px = float(c.iloc[-1])
     dma50 = float(c.rolling(50).mean().iloc[-1])
     dma200 = float(c.rolling(200).mean().iloc[-1])
     slope_up = c.rolling(200).mean().iloc[-1] > c.rolling(200).mean().iloc[-21]
     ret126 = float(c.iloc[-1] / c.iloc[-127] - 1) if len(c) > 127 else np.nan
-    beats_mkt = ret126 > index_ret126
+    # if the benchmark is missing, don't fail a name on it
+    beats_mkt = True if index_ret126 != index_ret126 else (ret126 > index_ret126)
 
-    passed = (px > dma50 and px > dma200 and bool(slope_up) and bool(beats_mkt))
-    reasons = []
-    if px <= dma50 or px <= dma200: reasons.append("below 50/200 DMA")
-    if not slope_up: reasons.append("200 DMA not rising")
-    if not beats_mkt: reasons.append("lagging the index")
+    if horizon == "quarter":
+        passed = (px > dma200 and bool(slope_up))
+        reasons = []
+        if px <= dma200: reasons.append("below 200 DMA")
+        if not slope_up: reasons.append("200 DMA not rising")
+        ok_msg = "structural uptrend intact"
+    else:  # swing
+        passed = (px > dma50 and px > dma200 and bool(slope_up) and bool(beats_mkt))
+        reasons = []
+        if px <= dma50 or px <= dma200: reasons.append("below 50/200 DMA")
+        if not slope_up: reasons.append("200 DMA not rising")
+        if not beats_mkt: reasons.append("lagging the index")
+        ok_msg = "healthy uptrend, outperforming"
+
     return passed, {"px": px, "dma50": dma50, "dma200": dma200,
                     "ret126": ret126, "index_ret126": index_ret126,
-                    "reason": "; ".join(reasons) or "healthy uptrend, outperforming"}
+                    "reason": "; ".join(reasons) or ok_msg}
 
 
 # ---------------------------------------------------------------- stage 2
@@ -70,8 +86,10 @@ def stage2_fundamentals(info: dict) -> tuple[bool, dict]:
 
 # ---------------------------------------------------------------- stage 3
 def stage3_risk(hist: pd.DataFrame, baseline: pd.DataFrame,
-                symbol: str) -> tuple[bool, dict]:
-    """Tradable and not pathologically risky or overextended."""
+                symbol: str, horizon: str = "swing") -> tuple[bool, dict]:
+    """Tradable and not pathologically risky. 'swing' also rejects names
+    extended >30% above the 50 DMA (a near-term entry risk); 'quarter' skips
+    that check since short-term extension matters less over a full quarter."""
     c, h, l = hist["close"], hist["high"], hist["low"]
     px = float(c.iloc[-1])
     tr = (h - l).rolling(14).mean().iloc[-1]
@@ -85,7 +103,7 @@ def stage3_risk(hist: pd.DataFrame, baseline: pd.DataFrame,
 
     liquid = turnover > 5e7
     calm = vol_pct < 0.90
-    not_extended = ext < 0.30
+    not_extended = ext < 0.30 if horizon == "swing" else True
 
     reasons = []
     if not liquid: reasons.append("illiquid (<5cr/day)")
