@@ -1,5 +1,2 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-08-24,DYCL,5,TRUST,Industrials,True,True,True,True,8,,433.7,418.8,448.6,463.5,cleared all 5 gates,We Ran A Stock Scan For Earnings Growth And Dynamic Cables (NSE:DYCL) Passed With Ease - simplywall.st,True
-2026-08-24,UNOMINDA,5,TRUST,Consumer Cyclical,True,True,True,True,7,,1251.3,1230.1,1272.5,1293.7,cleared all 5 gates,UNOMINDA Forecast — Price Target — Prediction for 2027 - TradingView,True
-2026-08-24,VINDHYATEL,5,DROP,Industrials,True,True,False,True,4,,2388.4,2326.9,2449.9,2511.4,failed: Risk,Vindhya Telelinks Limited's (NSE:VINDHYATEL) largest shareholders are individual investors who were rewarded as market cap surged ₹2.6b last week - simplywall.st,False
-2026-08-24,LAURUSLABS,5,DROP,Healthcare,True,False,True,True,8,,1801.0,1769.4,1832.6,1864.2,failed: Fundamentals,LAURUSLABS Forecast — Price Target — Prediction for 2027 - TradingView,False
+2026-08-25,ZFCVINDIA,5,DROP,Consumer Cyclical,False,True,True,True,6,,2603.0,2571.67,2634.33,2665.66,failed: Trend & RS,ZFCVINDIA Forecast — Price Target — Prediction for 2027 - TradingView,False
