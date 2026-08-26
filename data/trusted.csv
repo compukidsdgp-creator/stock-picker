@@ -1,2 +1,2 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-08-25,ZFCVINDIA,5,DROP,Consumer Cyclical,False,True,True,True,6,,2603.0,2571.67,2634.33,2665.66,failed: Trend & RS,ZFCVINDIA Forecast — Price Target — Prediction for 2027 - TradingView,False
+2026-08-26,SIMPLEXINF,5,DROP,Industrials,False,False,False,True,7,,251.41,245.05,257.77,264.13,"failed: Trend & RS, Fundamentals, Risk",Simplex Infrastructures Share Price Target 2026: Bull Case Rs 310 - Univest,False
