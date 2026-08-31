@@ -1,7 +1,5 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-08-29,WSTCSTPAPR,5,DROP,—,True,False,True,True,6,,606.85,599.6,614.1,621.35,failed: Fundamentals,We Wouldn't Be Too Quick To Buy West Coast Paper Mills Limited (NSE:WSTCSTPAPR) Before It Goes Ex-Dividend - simplywall.st,False
-2026-08-29,MBAPL,5,DROP,—,True,False,True,True,3,,162.78,160.3,165.26,167.74,failed: Fundamentals,Shareholders meeting,False
-2026-08-29,UNITDSPR,5,DROP,—,True,False,True,True,6,,1522.0,1507.7,1536.3,1550.6,failed: Fundamentals,Updates,False
-2026-08-29,TRAVELFOOD,5,DROP,—,True,False,True,True,6,,1333.9,1280.2,1387.6,1441.3,failed: Fundamentals,Copy of Newspaper Publication,False
-2026-08-29,ADOR,5,DROP,—,True,False,True,True,7,,1541.9,1478.8,1605.0,1668.1,failed: Fundamentals,Analysts/Institutional Investor Meet/Con. Call Updates,False
-2026-08-29,POONAWALLA,5,DROP,—,False,False,True,True,3,,482.35,470.55,494.15,505.95,"failed: Trend & RS, Fundamentals",ESOP/ESOS/ESPS,False
+2026-09-01,WSTCSTPAPR,5,TRUST,Basic Materials,True,True,True,True,6,,606.85,599.6,614.1,621.35,cleared all 5 gates,Shareholders meeting,True
+2026-09-01,ADOR,5,TRUST,Industrials,True,True,True,True,7,,1541.9,1478.8,1605.0,1668.1,cleared all 5 gates,Is It Smart To Buy Ador Welding Limited (NSE:ADOR) Before It Goes Ex-Dividend? - simplywall.st,True
+2026-09-01,MBAPL,5,DROP,Basic Materials,True,False,True,True,3,,162.78,160.3,165.26,167.74,failed: Fundamentals,Shareholders meeting,False
+2026-09-01,POONAWALLA,5,DROP,Financial Services,False,False,True,True,3,,482.35,470.55,494.15,505.95,"failed: Trend & RS, Fundamentals",Poonawalla Fincorp shares rise 6% on strong profit growth in Q4 - thehindubusinessline.com,False
