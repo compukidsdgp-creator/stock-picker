@@ -1,7 +1,3 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-09-01,CONCORDBIO,5,TRUST,Healthcare,True,True,True,True,6.0,,1484.3,1442.0,1526.6,1568.9,cleared all 5 gates,CONCORDBIO Forecast — Price Target — Prediction for 2027 - TradingView,True
-2026-09-01,LALPATHLAB,5,TRUST,Healthcare,True,True,True,True,5.0,,1904.4,1873.4,1935.4,1966.4,cleared all 5 gates,LALPATHLAB Forecast — Price Target — Prediction for 2027 - TradingView,True
-2026-09-01,PRUDENT,5,DROP,Financial Services,True,True,True,True,3.0,,3352.3,3283.1,3421.5,3490.7,F-score 3<4,PRUDENT Forecast — Price Target — Prediction for 2027 - TradingView,False
-2026-09-01,PNBHOUSING,5,DROP,Financial Services,True,False,True,True,,,1152.0,1135.0,1169.0,1186.0,failed: Fundamentals,Analysts/Institutional Investor Meet/Con. Call Updates,False
-2026-09-01,RAIN,5,DROP,Basic Materials,False,False,True,True,8.0,,206.55,193.1,220.0,233.45,"failed: Trend & RS, Fundamentals",Rain Industries Share Price Target 2026: Bull Case Rs 215 - Univest,False
-2026-09-01,KIOCL,5,DROP,Basic Materials,False,False,False,True,7.0,,383.95,376.3,391.6,399.25,"failed: Trend & RS, Fundamentals, Risk","KIOCL Share Price Target 2027, 2028 and 2030: Long Term Analyst Forecast - Univest",False
+2026-09-02,HNDFDS,5,DROP,—,True,False,True,True,4,,622.8,612.7,632.9,643.0,failed: Fundamentals,Analysts/Institutional Investor Meet/Con. Call Updates,False
+2026-09-02,BOSCHLTD,5,DROP,—,True,False,True,True,6,,47250.0,46410.0,48090.0,48930.0,failed: Fundamentals,Bosch Ltd Q4 Results: Net profit rises 3% to Rs 568 cr - The Economic Times,False
