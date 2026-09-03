@@ -1,3 +1,7 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-09-02,HNDFDS,5,DROP,—,True,False,True,True,4,,622.8,612.7,632.9,643.0,failed: Fundamentals,Analysts/Institutional Investor Meet/Con. Call Updates,False
-2026-09-02,BOSCHLTD,5,DROP,—,True,False,True,True,6,,47250.0,46410.0,48090.0,48930.0,failed: Fundamentals,Bosch Ltd Q4 Results: Net profit rises 3% to Rs 568 cr - The Economic Times,False
+2026-09-03,AUROPHARMA,5,TRUST,Healthcare,True,True,True,True,6.0,,1637.3,1598.8,1675.8,1714.3,cleared all 5 gates,Copy of Newspaper Publication,True
+2026-09-03,APLAPOLLO,5,DROP,Basic Materials,False,True,True,True,7.0,,2159.4,2119.7,2199.1,2238.8,failed: Trend & RS,APLAPOLLO Forecast — Price Target — Prediction for 2027 - TradingView,False
+2026-09-03,BALUFORGE,5,DROP,Industrials,False,True,True,True,5.0,,570.35,543.7,597.0,623.65,failed: Trend & RS,Analysts/Institutional Investor Meet/Con. Call Updates,False
+2026-09-03,NETWEB,5,DROP,Technology,True,False,False,True,3.0,,5270.0,5064.0,5476.0,5682.0,"failed: Fundamentals, Risk",Allotment of Securities,False
+2026-09-03,LAXMIINDIA,5,DROP,Financial Services,False,False,False,True,5.0,,128.13,121.66,134.6,141.07,"failed: Trend & RS, Fundamentals, Risk",Committee Meeting Updates,False
+2026-09-03,IIFL,5,DROP,Financial Services,True,False,True,True,,,643.4,615.0,671.8,700.2,failed: Fundamentals,Allotment of Securities,False
