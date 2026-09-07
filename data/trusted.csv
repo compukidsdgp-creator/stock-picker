@@ -1,3 +1,5 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-09-04,EBGNG,5,TRUST,Technology,True,True,True,True,6,,601.25,572.0,630.5,659.75,cleared all 5 gates,Copy of Newspaper Publication,True
-2026-09-04,PRUDENT,5,DROP,Financial Services,True,True,True,True,3,,3347.6,3200.0,3495.2,3642.8,F-score 3<4,Prudent Corporate Advisory Services Limited (NSE:PRUDENT) Not Lagging Market On Growth Or Pricing - simplywall.st,False
+2026-09-07,SOTL,5,TRUST,Basic Materials,True,True,True,True,5,,705.75,671.15,740.35,774.95,cleared all 5 gates,Analysts/Institutional Investor Meet/Con. Call Updates,True
+2026-09-07,ALKYLAMINE,5,DROP,Basic Materials,True,False,True,True,4,,1986.3,1950.0,2022.6,2058.9,failed: Fundamentals,Income Investors Should Know That Alkyl Amines Chemicals Limited (NSE:ALKYLAMINE) Goes Ex-Dividend Soon - simplywall.st,False
+2026-09-07,RPEL,5,DROP,Basic Materials,True,False,True,True,6,,1681.2,1571.0,1791.4,1901.6,failed: Fundamentals,Analysts/Institutional Investor Meet/Con. Call Updates,False
+2026-09-07,POLICYBZR,5,DROP,Financial Services,True,False,True,True,6,,1792.0,1752.3,1831.7,1871.4,failed: Fundamentals,Copy of Newspaper Publication,False
