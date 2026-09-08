@@ -1,5 +1,9 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-09-07,SOTL,5,TRUST,Basic Materials,True,True,True,True,5,,705.75,671.15,740.35,774.95,cleared all 5 gates,Analysts/Institutional Investor Meet/Con. Call Updates,True
-2026-09-07,ALKYLAMINE,5,DROP,Basic Materials,True,False,True,True,4,,1986.3,1950.0,2022.6,2058.9,failed: Fundamentals,Income Investors Should Know That Alkyl Amines Chemicals Limited (NSE:ALKYLAMINE) Goes Ex-Dividend Soon - simplywall.st,False
-2026-09-07,RPEL,5,DROP,Basic Materials,True,False,True,True,6,,1681.2,1571.0,1791.4,1901.6,failed: Fundamentals,Analysts/Institutional Investor Meet/Con. Call Updates,False
-2026-09-07,POLICYBZR,5,DROP,Financial Services,True,False,True,True,6,,1792.0,1752.3,1831.7,1871.4,failed: Fundamentals,Copy of Newspaper Publication,False
+2026-09-08,HNDFDS,5,TRUST,Industrials,True,True,True,True,4,,623.5,609.5,637.5,651.5,cleared all 5 gates,We Think That There Are Issues Underlying Hindustan Foods' (NSE:HNDFDS) Earnings - simplywall.st,True
+2026-09-08,GALAXYSURF,5,TRUST,Basic Materials,True,True,True,True,7,,2251.9,2143.5,2360.3,2468.7,cleared all 5 gates,Galaxy Surfactants Limited (NSE:GALAXYSURF) Stock Goes Ex-Dividend In Just Three Days - simplywall.st,True
+2026-09-08,ZENTEC,5,DROP,Industrials,True,False,True,True,6,,1825.0,1736.5,1913.5,2002.0,failed: Fundamentals,ZENTEC Forecast — Price Target — Prediction for 2027 - TradingView,False
+2026-09-08,CONCORDBIO,5,DROP,Healthcare,True,True,True,False,6,,1470.5,1411.6,1529.4,1588.3,failed: News,Time To Worry? Analysts Just Downgraded Their Concord Biotech Limited (NSE:CONCORDBIO) Outlook - simplywall.st,False
+2026-09-08,INDOTECH,5,DROP,Industrials,True,True,False,True,8,,3696.8,3551.0,3842.6,3988.4,failed: Risk,We Think That There Are Issues Underlying Indo Tech Transformers' (NSE:INDOTECH) Earnings - simplywall.st,False
+2026-09-08,NELCO,5,DROP,Technology,True,False,True,True,3,,973.1,908.0,1038.2,1103.3,failed: Fundamentals,Nelco Share Price Falls over 12%: Why the $20 Million Elveo Investment Has Investors Worried - India Infoline,False
+2026-09-08,PRINCEPIPE,5,DROP,Industrials,False,True,False,True,7,,285.75,278.05,293.45,301.15,"failed: Trend & RS, Risk",PRINCEPIPE Forecast — Price Target — Prediction for 2027 - TradingView,False
+2026-09-08,HINDCOPPER,5,DROP,Basic Materials,False,True,False,True,9,,532.85,506.6,559.1,585.35,"failed: Trend & RS, Risk",This Broker Just Slashed Their Hindustan Copper Limited (NSE:HINDCOPPER) Earnings Forecasts - simplywall.st,False
