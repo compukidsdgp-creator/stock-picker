@@ -1,6 +1,2 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-09-09,BALAMINES,5,TRUST,Basic Materials,True,True,True,True,4,,2359.3,2295.1,2423.5,2487.7,cleared all 5 gates,When Should You Buy Balaji Amines Limited (NSE:BALAMINES)? - simplywall.st,True
-2026-09-09,ANANDRATHI,5,TRUST,Financial Services,True,True,True,True,6,,2180.6,2160.0,2201.2,2221.8,cleared all 5 gates,Anand Rathi Q4 FY26 PAT Up 16% At Rs416 Mn - fintechbiznews.com,True
-2026-09-09,AEROENTER,5,TRUST,Basic Materials,True,True,True,True,6,,142.95,136.5,149.4,155.85,cleared all 5 gates,Shareholders meeting,True
-2026-09-09,PREMEXPLN,5,DROP,Basic Materials,False,False,True,True,6,,666.6,661.1,672.1,677.6,"failed: Trend & RS, Fundamentals",General Updates,False
-2026-09-09,POLICYBZR,5,DROP,Financial Services,True,False,True,True,5,,1800.0,1775.9,1824.1,1848.2,failed: Fundamentals,ESOP/ESOS/ESPS,False
+2026-09-10,PETRONET,5,DROP,—,False,False,True,True,6,,288.7,283.05,294.35,300.0,"failed: Trend & RS, Fundamentals",General Updates,False
