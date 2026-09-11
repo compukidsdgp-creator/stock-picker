@@ -1,2 +1,6 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-09-10,PETRONET,5,DROP,—,False,False,True,True,6,,288.7,283.05,294.35,300.0,"failed: Trend & RS, Fundamentals",General Updates,False
+2026-09-11,QPOWER,5,DROP,—,True,False,True,True,5,,1426.5,1391.7,1461.3,1496.1,failed: Fundamentals,QPOWER Forecast — Price Target — Prediction for 2027 - TradingView,False
+2026-09-11,DECCANCE,5,DROP,—,False,False,False,True,7,,573.7,560.4,587.0,600.3,"failed: Trend & RS, Fundamentals, Risk",Additional Considerations Required While Assessing Deccan Cements' (NSE:DECCANCE) Strong Earnings - simplywall.st,False
+2026-09-11,PRUDENT,5,DROP,—,True,False,True,True,3,,3385.0,3200.0,3570.0,3755.0,failed: Fundamentals,PRUDENT Forecast — Price Target — Prediction for 2027 - TradingView,False
+2026-09-11,IOLCP,5,DROP,—,True,False,True,True,7,,194.31,186.0,202.62,210.93,failed: Fundamentals,Analysts/Institutional Investor Meet/Con. Call Updates,False
+2026-09-11,OIL,5,DROP,—,False,False,True,True,5,,489.8,479.25,500.35,510.9,"failed: Trend & RS, Fundamentals",Change in Auditors,False
