@@ -1,340 +1,202 @@
 date,ticker,setups,catalyst,score,entry,stop,target_1r,target_2r,rr,rsi14,vol_x_avg,headline
-2026-09-14,QPOWER,S4,NEWS,5,1426.5,1391.7,1461.3,1496.1,4.12,56.7,1.13,QPOWER Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,DECCANCE,S3,ERN,5,573.7,560.4,587.0,600.3,3.91,55.7,5.42,Additional Considerations Required While Assessing Deccan Cements' (NSE:DECCANCE) Strong Earnings - simplywall.st
-2026-09-14,PRUDENT,S4,NEWS,5,3385.0,3200.0,3570.0,3755.0,3.89,54.0,1.31,PRUDENT Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,IOLCP,S4,EXP,5,194.31,186.0,202.62,210.93,2.98,57.1,1.01,IOL Chemicals (NSE:IOLCP) September 2026 Investor Call Update - Kalkine India
-2026-09-14,OIL,S4,NEWS,5,489.8,479.25,500.35,510.9,2.34,57.5,2.13,Indian shares slide to three-month low in broad-based sell-off on Mideast worries - Reuters
-2026-09-14,KRBL,S2+S4,EXP,4,421.05,416.03,426.07,431.09,6.33,56.1,0.32,Here's Why KRBL (NSE:KRBL) Has Caught The Eye Of Investors - simplywall.st
-2026-09-14,STYLEBAAZA,S4,,4,388.1,378.0,398.2,408.3,5.84,54.1,0.28,Here's Why We Think Baazar Style Retail (NSE:STYLEBAAZA) Is Well Worth Watching - simplywall.st
-2026-09-14,ELECTHERM,S3,ERN,4,956.3,934.65,977.95,999.6,5.48,37.3,8.95,Electrotherm India Q4 FY26 Results Earnings Preview Outlook - Univest
-2026-09-14,KMEW,S4,ERN,4,2869.2,2812.1,2926.3,2983.4,5.36,53.3,0.76,KMEW Mar 2026 Earnings: Robust EPS of ₹12.53 Drives 6% Stock Uptick on NSE - Long-Term Guidance - siam.in
-2026-09-14,PREMEXPLN,S4,ERN,4,668.0,661.1,674.9,681.8,5.0,50.6,0.39,Impressive Earnings May Not Tell The Whole Story For Premier Explosives (NSE:PREMEXPLN) - simplywall.st
-2026-09-14,NELCO,S4,EXP,4,947.25,908.0,986.5,1025.75,4.4,50.4,0.32,Nelco invests $20 mn in US-based Elveo for satellite connectivity; shares fall 12% - Upstox
-2026-09-14,BSOFT,S3,NEWS,4,281.65,274.2,289.1,296.55,4.34,39.5,3.85,BSOFT Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,KDDL,S2+S4,NEWS,4,3881.9,3820.1,3943.7,4005.5,3.99,54.9,0.39,KDDL Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,POKARNA,S3,EXP,4,804.15,753.35,854.95,905.75,3.69,32.6,2.34,Optimistic Investors Push Pokarna Limited (NSE:POKARNA) Shares Up 37% But Growth Is Lacking - simplywall.st
-2026-09-14,TEJASNET,S4,ERN,4,552.65,532.0,573.3,593.95,3.4,51.4,0.45,"Tejas Networks Ltd. Share Price, Stock Price - NSE/BSE Live - NDTV Profit"
-2026-09-14,GLENMARK,S2+S4,NEWS,4,2419.2,2384.1,2454.3,2489.4,3.37,54.9,0.68,GLENMARK Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,PARADEEP,S4,NEWS,4,155.96,152.31,159.61,163.26,3.3,53.4,0.3,Paradeep Phosphates Share Price: Buy or Sell - Univest
-2026-09-14,SOTL,S4,EXP,4,716.25,673.0,759.5,802.75,3.09,54.7,0.38,Here's Why Savita Oil Technologies (NSE:SOTL) Has Caught The Eye Of Investors - simplywall.st
-2026-09-14,GUJTHEM,S4,ERN,4,422.65,407.1,438.2,453.75,3.05,57.1,0.53,Gujarat Themis Biosyn's (NSE:GUJTHEM) Anemic Earnings Might Be Worse Than You Think - simplywall.st
-2026-09-14,RAMRAT,S4,ERN,4,532.4,509.1,555.7,579.0,3.01,55.8,0.21,We Think That There Are Issues Underlying Ram Ratna Wires' (NSE:RAMRAT) Earnings - simplywall.st
-2026-09-14,CUB,S4,ERN,4,227.32,220.0,234.64,241.96,2.94,52.1,0.61,Do City Union Bank's (NSE:CUB) Earnings Warrant Your Attention? - simplywall.st
-2026-09-14,APLAPOLLO,S2+S4,NEWS,4,2153.5,2109.8,2197.2,2240.9,2.92,53.8,0.91,APLAPOLLO Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,NIACL,S4,ERN,4,198.39,182.41,214.37,230.35,2.77,53.2,0.61,"NIACL, IFCI shares fall up to 12% amid profit booking as NSE IPO GMP declines - Moneycontrol.com"
-2026-09-14,SUDARSCHEM,S4,ERN,4,1248.2,1210.5,1285.9,1323.6,2.62,60.9,0.61,Sudarshan Chemical Industries Limited (NSE:SUDARSCHEM) Just Released Its First-Quarter Results And Analysts Are Updating Their Estimates - simplywall.st
-2026-09-14,VINCOFE,S2+S4,ERN,4,174.35,168.18,180.52,186.69,2.44,57.7,0.5,Vintage Coffee and Beverages' (NSE:VINCOFE) Earnings Might Be Weaker Than You Think - simplywall.st
-2026-09-14,GHCLTEXTIL,S4,ERN,4,130.76,125.0,136.52,142.28,2.4,55.4,0.62,Investors Shouldn't Be Too Comfortable With GHCL Textiles' (NSE:GHCLTEXTIL) Earnings - simplywall.st
-2026-09-14,YATHARTH,S2,NEWS,4,966.3,941.82,990.78,1015.26,2.39,59.4,0.3,General Updates
-2026-09-14,DIVGIITTS,S4,NEWS,4,1188.3,1127.3,1249.3,1310.3,2.32,53.7,0.69,DIVGIITTS Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,SENORES,S4,NEWS,4,1467.3,1410.4,1524.2,1581.1,2.31,51.9,0.6,SENORES Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,FEDFINA,S4,NEWS,4,158.53,153.89,163.17,167.81,2.26,52.5,0.9,FEDFINA Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,MSTCLTD,S4,,4,738.55,708.55,768.55,798.55,2.22,56.8,0.65,MSTC Ltd. Share Price Today: Fresh 52-Week High Analysis - Univest
-2026-09-14,MEDANTA,S2+S4,NEWS,4,1447.2,1403.4,1491.0,1534.8,2.21,51.9,0.25,"Global Health Share Price: Buy, Hold or Sell - Univest"
-2026-09-14,ALIVUS,S2+S4,NEWS,4,1386.8,1338.2,1435.4,1484.0,2.2,57.1,0.41,Alivus Life Sciences Share Price: Buy or Sell - Univest
-2026-09-14,POLYMED,S4,NEWS,4,1738.5,1682.3,1794.7,1850.9,2.13,50.8,0.42,POLYMED Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,TIIL,S4,,4,3250.2,3099.9,3400.5,3550.8,2.1,60.6,0.46,Technocraft Industries Share Price - Upstox
-2026-09-14,ASKAUTOLTD,S4,NEWS,4,624.55,601.2,647.9,671.25,2.09,54.1,0.41,ASKAUTOLTD Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,DIFFNKG,S4,ERN,4,449.5,415.15,483.85,518.2,2.05,57.3,0.17,Investors Shouldn't Be Too Comfortable With Diffusion Engineers' (NSE:DIFFNKG) Earnings - simplywall.st
-2026-09-14,JYOTICNC,S2+S4,NEWS,4,985.0,948.05,1021.95,1058.9,2.0,55.6,0.51,JYOTICNC Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,PARAS,S4,,4,1435.6,1360.8,1510.4,1585.2,2.0,54.0,0.43,"With EPS Growth And More, Paras Defence and Space Technologies (NSE:PARAS) Makes An Interesting Case - simplywall.st"
-2026-09-14,MOTHERSON,S4,NEWS,4,164.45,159.92,168.98,173.51,1.95,54.0,1.2,General Updates
-2026-09-14,YASHO,S4,NEWS,4,4187.5,3773.0,4602.0,5016.5,1.95,53.9,1.54,"Yasho Industries Share Price Target 2026: Rs 3,450 Analyst Forecast - Univest"
-2026-09-14,MRPL,S4,ERN,4,175.86,167.11,184.61,193.36,1.83,52.7,1.17,MRPL soars 13% on strong Q1 result; analyst suggests buying on breakout - business-standard.com
-2026-09-14,LUMAXTECH,S4,NEWS,4,1993.7,1893.7,2093.7,2193.7,1.55,57.9,1.11,LUMAXTECH Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,CONCORDBIO,S3+S4,NEWS,4,1505.7,1411.6,1599.8,1693.9,1.16,57.2,2.07,CONCORDBIO Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,LALPATHLAB,S4,NEWS,4,1909.0,1855.7,1962.3,2015.6,1.11,53.4,1.2,LALPATHLAB Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,TNPETRO,S4,NEWS,4,128.9,111.7,146.1,163.3,1.05,59.8,1.69,Tamilnadu PetroProducts Share Price Target 2026: Rs 115 Analyst Forecast - Univest
-2026-09-14,KOTAKBANK,S4,EXP,4,419.0,409.25,428.75,438.5,1.04,59.8,1.24,Kotak Mahindra Bank Shares Fall 3% As Investors React To Margin Pressure - HDFC Sky
-2026-09-14,SAREGAMA,S4,ERN,4,505.5,475.0,536.0,566.5,1.0,51.6,1.1,Saregama India Limited (NSE:SAREGAMA) Released Earnings Last Week And Analysts Lifted Their Price Target To ₹620 - simplywall.st
-2026-09-14,EDELWEISS,S4,EXP,4,132.43,122.81,142.05,151.67,0.88,55.6,1.08,Why Is Edelweiss Financial Services Share Price Falling: Key Reasons and Investor Analysis 2026 - Univest
-2026-09-14,AARTIDRUGS,S4,EXP,4,428.5,409.95,447.05,465.6,0.84,54.9,1.11,Investors Don't See Light At End Of Aarti Drugs Limited's (NSE:AARTIDRUGS) Tunnel And Push Stock Down 25% - simplywall.st
-2026-09-14,AIIL,S3,EXP,4,544.35,503.0,585.7,627.05,0.84,51.8,8.6,Why Is Authum Investment & Infrastructure Stock in Focus Today? - Kalkine India
-2026-09-14,KIRLOSIND,S3+S4,NEWS,4,3828.3,3550.8,4105.8,4383.3,0.82,56.4,18.02,KIRLOSIND Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,LXCHEM,S4,NEWS,4,175.56,162.0,189.12,202.68,0.77,51.5,1.36,LXCHEM Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,INDOCO,S3,ERN,4,263.02,229.0,297.04,331.06,0.73,59.6,2.92,Here's What Analysts Are Forecasting For Indoco Remedies Limited (NSE:INDOCO) After Its First-Quarter Results - simplywall.st
-2026-09-14,ITDC,S3,,4,690.85,627.1,754.6,818.35,0.72,56.6,5.27,"India Tourism Development Corporation Limited (NSE:ITDC) Looks Like A Good Stock, And It's Going Ex-Dividend Soon - simplywall.st"
-2026-09-14,SAMBHV,S4,EXP,4,131.08,124.17,137.99,144.9,0.7,57.2,1.14,Analysts/Institutional Investor Meet/Con. Call Updates
-2026-09-14,WESTLIFE,S3+S4,ERN,4,569.6,523.0,616.2,662.8,0.7,55.8,15.55,Positive earnings growth hasn't been enough to get Westlife Foodworld (NSE:WESTLIFE) shareholders a favorable return over the last year - simplywall.st
-2026-09-14,APARINDS,S4,ERN,4,17500.0,16500.0,18500.0,19500.0,0.63,57.4,1.22,Analysts Are Upgrading APAR Industries Limited (NSE:APARINDS) After Its Latest Results - simplywall.st
-2026-09-14,IIFLCAPS,S4,ERN,4,339.05,333.1,345.0,350.95,0.63,55.0,1.46,IIFLCAPS Mar 2026 Earnings: Solid EPS of ₹5.31 Driven by Robust Revenue of ₹548 Crore - Earnings Surprise Stocks - vinanet.vn
-2026-09-14,RAIN,S4,NEWS,4,215.97,193.5,238.44,260.91,0.62,54.3,1.01,"Rain Industries Share Price: Buy, Hold or Sell - Univest"
-2026-09-14,ONESOURCE,S3,ERN,4,1592.2,1504.1,1680.3,1768.4,0.61,55.1,3.01,Analysts Are Updating Their OneSource Specialty Pharma Limited (NSE:ONESOURCE) Estimates After Its First-Quarter Results - simplywall.st
-2026-09-14,PNBHOUSING,S4,ERN,4,1178.9,1125.4,1232.4,1285.9,0.61,59.0,1.44,"PNB Housing Finance shares soar 7% to 52-week high as NII jumps to ₹803 crore in Q1, AUM grows 13% YoY; key details - Upstox"
-2026-09-14,AEGISLOG,S4,NEWS,4,1353.6,1180.0,1527.2,1700.8,0.55,56.1,1.35,AEGISLOG Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,QUADFUTURE,S1+S3,,4,478.5,412.0,545.0,611.5,0.5,69.4,3.74,QUADRANT FUTURE TEK LTD Share Price - Upstox
-2026-09-14,AETHER,S4,NEWS,4,1674.7,1586.4,1763.0,1851.3,0.48,59.5,1.51,Shareholders meeting
-2026-09-14,AKUMS,S4,NEWS,4,776.35,733.15,819.55,862.75,0.47,60.3,1.1,AKUMS Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,LICHSGFIN,S3,EXP,4,562.9,525.25,600.55,638.2,0.44,66.2,2.91,Those who invested in LIC Housing Finance (NSE:LICHSGFIN) three years ago are up 44% - simplywall.st
-2026-09-14,SANATHAN,S4,NEWS,4,472.1,425.05,519.15,566.2,0.44,54.3,1.39,Sanathan Textiles Share Price Target 2027 to 2030: Analyst Outlook - Univest
-2026-09-14,PVRINOX,S4,,4,1237.1,1125.7,1348.5,1459.9,0.43,56.3,1.17,PVR Inox Share Price - Live NSE: PVRINOX Stock Price & Chart - Upstox
-2026-09-14,SHAREINDIA,S3,ERN,4,198.93,167.2,230.66,262.39,0.42,75.2,2.83,Price to earnings forward of Share India Securities Ltd – NSE:SHAREINDIA - TradingView
-2026-09-14,MOBIKWIK,S3,NEWS,4,209.7,184.06,235.34,260.98,0.41,64.3,12.07,MOBIKWIK Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,RACLGEAR,S1+S3,NEWS,4,1756.7,1485.0,2028.4,2300.1,0.37,74.0,10.61,Shareholders meeting
-2026-09-14,JSWINFRA,S4,ERN,4,343.15,328.8,357.5,371.85,0.34,57.9,1.35,JSW Infrastructure's (NSE:JSWINFRA) Profits May Not Reveal Underlying Issues - simplywall.st
-2026-09-14,FINCABLES,S3,NEWS,4,1424.0,1186.5,1661.5,1899.0,0.31,68.8,2.74,FINCABLES Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,ABDL,S4,,4,632.5,586.55,678.45,724.4,0.25,57.8,1.85,ALLIED BLEND N DISTILS L Share Price - Upstox
-2026-09-14,BLACKBUCK,S3,EXP,4,628.15,570.1,686.2,744.25,0.24,66.0,5.75,Sunil Singhania's Abakkus acquires 1.48% stake in BlackBuck; Jamna Auto promoters sell 5% shares - Moneycontrol.com
-2026-09-14,DYNAMATECH,S3,NEWS,4,12097.0,11215.0,12979.0,13861.0,0.23,64.6,3.62,DYNAMATECH Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,63MOONS,S3,NEWS,4,908.9,744.95,1072.85,1236.8,0.22,68.1,3.07,"63 Moons shares rally 11%, take 6-day rise to 34%; MOFSL gives positional Buy call - Business Today"
-2026-09-14,ALLTIME,S3,ERN,4,221.15,197.46,244.84,268.53,0.19,59.7,2.81,"Redington hits new all-time high, zooms 18% on record Q1 earnings - business-standard.com"
-2026-09-14,CEWATER,S3,ERN,4,284.7,256.7,312.7,340.7,0.19,58.6,2.21,Investors Aren't Entirely Convinced By Concord Enviro Systems Limited's (NSE:CEWATER) Earnings - simplywall.st
-2026-09-14,IONEXCHANG,S3,EXP,4,445.7,360.75,530.65,615.6,0.18,70.7,2.17,ION Exchange shares jump 19% after bagging ₹503 crore order from Hyundai Engineering; check details - Upstox
-2026-09-14,AEGISVOPAK,S4,NEWS,4,295.1,260.7,329.5,363.9,0.16,61.6,1.89,"NIFTY50 above 24,400, SENSEX up 557 pts in noon deals; defence stocks, Nykaa, Aegis Vopak Terminals among buzzing stocks - Upstox"
-2026-09-14,SAFARI,S3,ERN,4,1544.7,1470.0,1619.4,1694.1,0.16,55.0,3.97,Ashish Kacholia-backed Safari Industries up 5% on Q4; should you buy? - business-standard.com
-2026-09-14,FIVESTAR,S3+S4,ERN,4,551.05,512.5,589.6,628.15,0.15,58.1,3.28,Five-Star Business Finance Limited (NSE:FIVESTAR) Just Reported Yearly Earnings: Have Analysts Changed Their Mind On The Stock? - simplywall.st
-2026-09-14,INDUSTOWER,S3,NEWS,4,388.0,368.7,407.3,426.6,0.15,55.8,3.67,INDUSTOWER Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,PAYTM,S1+S3,NEWS,4,1807.5,1594.2,2020.8,2234.1,0.15,70.8,2.19,"Paytm block deal: 2.95% equity worth Rs 2,949 crore changes hands; promoter entity was reported likely... - Moneycontrol.com"
-2026-09-14,WENDT,S3,ERN,4,8812.5,7970.5,9654.5,10496.5,0.15,65.2,2.05,"Wendt (India) Limited Schedules Board Meeting for April 24, 2026 to Approve FY26 Results and Final Dividend - scanx.trade"
-2026-09-14,AWFIS,S3,NEWS,4,293.2,244.1,342.3,391.4,0.13,64.7,16.44,Awfis Space Solutions Share Price: Buy or Sell - Univest
-2026-09-14,WABAG,S1+S3,EXP,4,2277.9,1948.9,2606.9,2935.9,0.12,69.2,2.63,Rekha Jhunjhunwala-backed VA Tech Wabag rises 4% on order win; up 58% YTD - business-standard.com
-2026-09-14,HERITGFOOD,S1+S3,EXP,4,417.4,349.3,485.5,553.6,0.11,72.0,4.52,Investors Met With Slowing Returns on Capital At Heritage Foods (NSE:HERITGFOOD) - simplywall.st
-2026-09-14,JAMNAAUTO,S3,EXP,4,135.46,118.89,152.03,168.6,0.11,65.8,4.08,Sunil Singhania's Abakkus acquires 1.48% stake in BlackBuck; Jamna Auto promoters sell 5% shares - Moneycontrol.com
-2026-09-14,MAHSEAMLES,S1+S3,,4,728.9,642.95,814.85,900.8,0.11,76.3,2.4,There's A Lot To Like About Maharashtra Seamless' (NSE:MAHSEAMLES) Upcoming ₹10.00 Dividend - simplywall.st
-2026-09-14,TDPOWERSYS,S1+S3,NEWS,4,804.9,717.2,892.6,980.3,0.09,65.3,2.02,General Updates
-2026-09-14,BBOX,S3,NEWS,4,800.8,709.15,892.45,984.1,0.08,57.2,4.02,BBOX Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,ABSLAMC,S3,NEWS,4,1109.9,1007.5,1212.3,1314.7,0.07,64.8,2.67,Is It Smart To Buy Aditya Birla Sun Life AMC Limited (NSE:ABSLAMC) Before It Goes Ex-Dividend? - simplywall.st
-2026-09-14,MEDICAMEQ,S3,ERN,4,323.05,220.0,426.1,529.15,0.07,75.6,2.33,Earnings Not Telling The Story For Medicamen Biotech Limited (NSE:MEDICAMEQ) After Shares Rise 25% - simplywall.st
-2026-09-14,BLUESTARCO,S3,NEWS,4,1558.0,1432.3,1683.7,1809.4,0.06,56.2,2.6,BLUESTARCO Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,GRANULES,S1+S3,ERN,4,909.3,816.0,1002.6,1095.9,0.06,66.8,6.33,Granules India Limited (NSE:GRANULES) Analysts Are Pretty Bullish On The Stock After Recent Results - simplywall.st
-2026-09-14,KABRAEXTRU,S1,ERN,4,723.15,552.35,893.95,1064.75,0.06,79.8,1.32,"KABRAEXTRU.NS Q2 2026 Earnings: Narrower than Expected, but Revenue Slip Signals Headwinds - Operating Margin Analysis - vinanet.vn"
-2026-09-14,RAYMOND,S1+S3,NEWS,4,1002.8,612.1,1393.5,1784.2,0.06,81.7,4.98,Copy of Newspaper Publication
-2026-09-14,ELLEN,S1+S3,NEWS,4,380.2,308.35,452.05,523.9,0.05,74.7,2.21,Ellenbarrie Industrial Gases Share Price Target 2026: Bull Case R - Univest
-2026-09-14,KROSS,S3,NEWS,4,239.07,204.39,273.75,308.43,0.05,73.4,2.42,"Kross Share Price Target 2027, 2028 & 2030: Long-Term Analyst Forecast - Univest"
-2026-09-14,SMSPHARMA,S1+S3,ERN,4,463.45,350.55,576.35,689.25,0.05,83.4,11.23,SMS Pharmaceuticals' (NSE:SMSPHARMA) Earnings Are Of Questionable Quality - simplywall.st
-2026-09-14,VENUSPIPES,S1,NEWS,4,2020.1,1573.2,2467.0,2913.9,0.05,78.4,1.77,Change in Management
-2026-09-14,VENKEYS,S1,NEWS,4,1787.2,1565.0,2009.4,2231.6,0.04,73.3,1.94,"Venkys India Share Price Target 2026: Expert Forecast, Growth Catalysts and Key Risks - Univest"
-2026-09-14,HLEGLAS,S3,NEWS,4,404.35,310.5,498.2,592.05,0.0,68.1,2.53,HLE Glascoat Share Price Target 2026: Rs 440 Analyst Forecast - Univest
-2026-09-14,SETL,S1,EXP,4,468.15,356.45,579.85,691.55,0.0,82.1,2.06,Here's Why Standard Engineering Technology (NSE:SETL) Has Caught The Eye Of Investors - simplywall.st
-2026-09-14,SIGMAADV,S1,ERN,4,832.45,722.0,942.9,1053.35,0.0,68.5,1.15,We Don’t Think Sigma Advanced Systems' (NSE:SIGMAADV) Earnings Should Make Shareholders Too Comfortable - simplywall.st
-2026-09-14,RADICO,S2,NEWS,3,4368.1,4362.5,4373.7,4379.3,67.66,41.6,0.44,Should You Buy Radico Khaitan Limited (NSE:RADICO) For Its Upcoming Dividend? - simplywall.st
-2026-09-14,NATCAPSUQ,S4,,3,189.39,185.0,193.78,198.17,10.16,52.9,0.2,Natural Capsules Limited (NSE:NATCAPSUQ) Stock Catapults 26% Though Its Price And Business Still Lag The Industry - simplywall.st
-2026-09-14,KARURVYSYA,S2,NEWS,3,333.8,330.45,337.15,340.5,7.42,44.0,0.62,KARURVYSYA Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,ALBERTDAVD,S4,NEWS,3,844.35,832.3,856.4,868.45,7.26,54.7,0.29,Albert David Share Price Target 2026: Rs 850 Analyst Forecast - Univest
-2026-09-14,ARCHIDPLY,S4,NEWS,3,101.96,98.16,105.76,109.56,6.01,54.6,0.36,Archidply Decor Share Price: Buy or Sell - Univest
-2026-09-14,HONASA,S2,ERN,3,471.15,464.0,478.3,485.45,5.41,49.2,0.7,"Honasa Consumer gains 3% after Q1 profit surges; Jefferies raises target, JPMorgan stays ‘Underweight’ - Moneycontrol.com"
-2026-09-14,KTKBANK,S2,ERN,3,325.35,321.55,329.15,332.95,5.41,52.5,0.79,Karnataka Bank's (NSE:KTKBANK) five-year earnings growth trails the enviable shareholder returns - simplywall.st
-2026-09-14,BAJAJ-AUTO,S2,ERN,3,11678.0,11529.0,11827.0,11976.0,5.32,48.9,0.97,Bajaj Auto Q2 Results FY27: Date and Expectations - Univest
-2026-09-14,TCPLPACK,S4,NEWS,3,3871.0,3790.0,3952.0,4033.0,5.18,53.1,0.53,TCPL Packaging (NSE:TCPLPACK) Could Be A Buy For Its Upcoming Dividend - simplywall.st
-2026-09-14,SECMARK,S4,ERN,3,141.31,133.06,149.56,157.81,4.63,53.3,0.19,SecMark Consultancy Limited Files Non-Applicability Certificate Under SEBI Regulation 74(5) for Q4 FY26 - scanx.trade
-2026-09-14,INDGN,S2,NEWS,3,578.35,570.3,586.4,594.45,4.61,53.1,0.33,INDGN Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,SURAKSHA,S2+S4,NEWS,3,323.75,318.1,329.4,335.05,4.47,55.2,0.39,Suraksha Diagnostic Share Price Target 2027 to 2030: Analyst Outl - Univest
-2026-09-14,GUJALKALI,S4,,3,705.0,691.9,718.1,731.2,4.2,52.4,0.38,"Gujarat Alkalie Share Price Today, Gujarat Alkalie Stock Price Live NSE/BSE Updates - The Economic Times"
-2026-09-14,MATRIMONY,S4,EXP,3,514.8,502.65,526.95,539.1,3.88,54.2,0.54,Income Investors Should Know That Matrimony.com Limited (NSE:MATRIMONY) Goes Ex-Dividend Soon - simplywall.st
-2026-09-14,SMARTWORKS,S4,ERN,3,530.75,521.1,540.4,550.05,3.85,54.7,0.32,Smartworks Coworking Spaces' (NSE:SMARTWORKS) Strong Earnings Are Of Good Quality - simplywall.st
-2026-09-14,SONACOMS,S2,EXP,3,788.0,773.4,802.6,817.2,3.84,49.1,0.5,Analysts/Institutional Investor Meet/Con. Call Updates
-2026-09-14,BLSE,S2,NEWS,3,312.8,307.05,318.55,324.3,3.22,49.7,0.95,BLS E-Services Share Price Target 2026: Rs 275 Analyst Forecast - Univest
-2026-09-14,TVSSRICHAK,S4,,3,5146.0,4940.5,5351.5,5557.0,2.99,58.7,0.1,"TVS Srichakra Limited (NSE:TVSSRICHAK) Passed Our Checks, And It's About To Pay A ₹37.80 Dividend - simplywall.st"
-2026-09-14,FEDERALBNK,S2,NEWS,3,344.5,337.6,351.4,358.3,2.86,45.9,0.63,General Updates
-2026-09-14,THELEELA,S2,EXP,3,542.3,528.0,556.6,570.9,2.84,52.2,0.56,Leela Palaces Hotels & Resorts Limited's (NSE:THELEELA) Popularity With Investors Is Under Threat From Overpricing - simplywall.st
-2026-09-14,RKFORGE,S2,NEWS,3,711.2,689.45,732.95,754.7,2.83,50.1,0.72,RKFORGE Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,CARRARO,S4,,3,538.45,526.0,550.9,563.35,2.74,50.5,0.65,CARRARO INDIA LIMITED Share Price - Live NSE: CARRARO Stock Price & Chart - Upstox
-2026-09-14,TITAN,S2,ERN,3,5009.5,4943.0,5076.0,5142.5,2.66,51.1,0.82,"Titan FY26 Revenue Crosses ₹76,078 Cr; Analysts Bullish on Gold Import Duty Tailwinds - scanx.trade"
-2026-09-14,HARSHA,S2+S4,ERN,3,445.0,435.05,454.95,464.9,2.61,54.0,0.62,Harsha Engineers International Limited Just Recorded A 7.4% Revenue Beat: Here's What Analysts Think - simplywall.st
-2026-09-14,DCMNVL,S4,,3,178.77,171.1,186.44,194.11,2.58,53.6,0.67,DCM Nouvelle's (NSE:DCMNVL) Returns On Capital Are Heading Higher - simplywall.st
-2026-09-14,STOVEKRAFT,S2,NEWS,3,814.9,790.8,839.0,863.1,2.58,51.7,0.65,Stove Kraft Share Price Target 2026: Rs 895 Analyst Forecast - Univest
-2026-09-14,SGIL,S2+S4,,3,592.2,577.55,606.85,621.5,2.48,50.8,0.7,SYNERGY GREEN IND. LTD Share Price - Live NSE: SGIL Stock Price & Chart - Upstox
-2026-09-14,AJANTPHARM,S2,NEWS,3,3533.4,3425.0,3641.8,3750.2,2.42,50.3,0.63,AJANTPHARM Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,ARVEE,S4,ERN,3,180.69,162.15,199.23,217.77,2.39,53.8,0.45,"Arvee Laboratories (India) Ltd. Key Financial Ratios – Valuation, Profitability & More - Value Research"
-2026-09-14,STEL,S4,NEWS,3,611.1,577.6,644.6,678.1,2.35,55.4,0.81,Stel Holdings Share Price Target 2027 to 2030: Analyst Outlook - Univest
-2026-09-14,LAXMIINDIA,S4,ERN,3,129.07,124.62,133.52,137.97,2.21,51.2,0.57,Laxmi India Finance Q1 FY27 Results Preview - Univest
-2026-09-14,KAMATHOTEL,S4,NEWS,3,224.2,215.88,232.52,240.84,2.03,59.5,0.3,Kamat Hotels (I) Share Price Target 2026: Rs 210 Analyst Forecast - Univest
-2026-09-14,FINEORG,S2+S4,NEWS,3,5167.5,5056.5,5278.5,5389.5,1.98,52.0,0.6,FINEORG Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,POLICYBZR,S4,NEWS,3,1797.3,1757.3,1837.3,1877.3,1.94,54.6,0.53,POLICYBZR Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,NAM-INDIA,S2+S4,ERN,3,1189.6,1146.8,1232.4,1275.2,1.87,50.9,0.53,Nippon Life India Asset Management (NSE:NAM-INDIA) Ticks All The Boxes When It Comes To Earnings Growth - simplywall.st
-2026-09-14,BEML,S4,EXP,3,2023.4,1925.5,2121.3,2219.2,1.85,57.2,0.49,Income Investors Should Know That BEML Limited (NSE:BEML) Goes Ex-Dividend Soon - simplywall.st
-2026-09-14,CRISIL,S4,NEWS,3,4697.9,4603.1,4792.7,4887.5,1.84,56.3,0.45,Credit Ratings Stock Up 75% in 5 Years: What Drove the Gains - Univest
-2026-09-14,MAITHANALL,S4,EXP,3,1045.85,964.55,1127.15,1208.45,1.83,55.9,0.64,Maithan Alloys (NSE:MAITHANALL): Why Did It Acquire Shares in ESDS Software Solution? - Kalkine India
-2026-09-14,KIRIINDUS,S4,ERN,3,537.35,500.0,574.7,612.05,1.78,57.9,0.51,Shareholders Shouldn’t Be Too Comfortable With Kiri Industries' (NSE:KIRIINDUS) Strong Earnings - simplywall.st
-2026-09-14,FOSECOIND,S2,NEWS,3,6194.5,5972.83,6416.17,6637.84,1.74,62.1,0.47,Should You Buy Foseco India Limited (NSE:FOSECOIND) For Its Upcoming Dividend? - simplywall.st
-2026-09-14,GIPCL,S2,NEWS,3,199.72,192.82,206.62,213.52,1.74,63.9,0.43,Gujarat Industries Power Company Share Price Target 2026: Rs 195 Analyst Forecast - Univest
-2026-09-14,BALRAMCHIN,S4,NEWS,3,691.4,638.6,744.2,797.0,1.7,54.2,0.17,General Updates
-2026-09-14,SHYAMMETL,S2+S4,NEWS,3,1074.8,1053.2,1096.4,1118.0,1.68,59.1,0.47,SHYAMMETL Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,NIITMTS,S3,ERN,3,229.84,219.44,240.24,250.64,1.63,48.7,8.46,Why Did NIIT Learning Systems (NSE: NIITMTS) Shares Fall After FY26 Earnings Announcement? - Kalkine India
-2026-09-14,UEL,S3+S4,ERN,3,206.64,184.74,228.54,250.44,1.6,52.4,2.29,"Optimism for Ujaas Energy (NSE:UEL) has grown this past week, despite one-year decline in earnings - simplywall.st"
-2026-09-14,SPAL,S4,NEWS,3,1023.0,980.0,1066.0,1109.0,1.56,52.2,0.47,S.P. Apparels (NSE:SPAL) Could Be A Buy For Its Upcoming Dividend - simplywall.st
-2026-09-14,GARUDA,S4,ERN,3,181.9,171.1,192.7,203.5,1.53,53.1,0.67,Do Garuda Construction and Engineering's (NSE:GARUDA) Earnings Warrant Your Attention? - simplywall.st
-2026-09-14,PRECWIRE,S4,NEWS,3,462.55,421.7,503.4,544.25,1.53,53.7,0.48,Updates
-2026-09-14,GNA,S4,EXP,3,551.1,524.0,578.2,605.3,1.51,54.9,0.92,G N A Axles Limited (NSE:GNA) Shares Fly 28% But Investors Aren't Buying For Growth - simplywall.st
-2026-09-14,NAVINFLUOR,S2+S4,NEWS,3,8543.5,8275.5,8811.5,9079.5,1.51,55.3,0.67,NAVINFLUOR Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,PRIMESECU,S3,ERN,3,283.05,274.0,292.1,301.15,1.48,50.3,3.11,"PRIMESECU Q2 2026 Earnings: Revenue Surges 60% YoY, EPS at ₹3.81 - Full Year Guidance - vinanet.vn"
-2026-09-14,VIJAYA,S2+S4,NEWS,3,1502.0,1450.1,1553.9,1605.8,1.46,58.3,0.73,Is It Smart To Buy Vijaya Diagnostic Centre Limited (NSE:VIJAYA) Before It Goes Ex-Dividend? - simplywall.st
-2026-09-14,ACMESOLAR,S2+S4,NEWS,3,402.3,382.9,421.7,441.1,1.45,55.3,0.55,Commencement of commercial production/operations
-2026-09-14,CONTROLPR,S3,ERN,3,588.7,571.1,606.3,623.9,1.45,48.5,3.06,Control Print Q4 Results 2026 - Find Control Print Q4 Earnings Result | CONTROLPR Q4 results - Livemint
-2026-09-14,HFCL,S4,NEWS,3,233.69,217.65,249.73,265.77,1.43,52.0,0.64,Press Release
-2026-09-14,ICIL,S2+S4,EXP,3,443.25,420.2,466.3,489.35,1.36,54.5,0.21,Indo Count Industries Limited's (NSE:ICIL) Popularity With Investors Is Clear - simplywall.st
-2026-09-14,KIRLOSENG,S4,ERN,3,2168.6,2057.0,2280.2,2391.8,1.33,50.3,0.76,Kirloskar Oil Engines' (NSE:KIRLOSENG) five-year earnings growth trails the fantastic shareholder returns - simplywall.st
-2026-09-14,MARKSANS,S2+S4,ERN,3,329.4,313.1,345.7,362.0,1.26,60.3,0.43,"Marksans Pharma Stock Jumps 11% After Net Profit Jumps 2.5x, Revenue Surges 36% - NDTV Profit"
-2026-09-14,METROPOLIS,S2+S4,NEWS,3,585.5,568.0,603.0,620.5,1.26,54.4,0.42,METROPOLIS Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,RPGLIFE,S4,ERN,3,2698.6,2490.1,2907.1,3115.6,1.26,51.2,1.22,Why RPG Life Sciences' (NSE:RPGLIFE) Shaky Earnings Are Just The Beginning Of Its Problems - simplywall.st
-2026-09-14,HAL,S2+S4,NEWS,3,4905.0,4707.0,5103.0,5301.0,1.24,53.5,0.83,HAL Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,ETERNAL,S4,ERN,3,323.5,315.8,331.2,338.9,1.23,57.6,0.61,Eternal Limited Just Missed Earnings - But Analysts Have Updated Their Models - simplywall.st
-2026-09-14,OMAXE,S4,NEWS,3,123.98,111.81,136.15,148.32,1.23,60.3,0.13,Omaxe share price zoms 18% on bourses; here's what is fuelling the buying - business-standard.com
-2026-09-14,TMB,S2+S4,NEWS,3,910.9,878.95,942.85,974.8,1.22,56.8,0.55,Tamilnad Mercantile Bank Share Price Target 2027 to 2030 - Univest
-2026-09-14,ACE,S2+S4,,3,1129.0,1073.8,1184.2,1239.4,1.21,53.3,0.82,Should You Be Adding Action Construction Equipment (NSE:ACE) To Your Watchlist Today? - simplywall.st
-2026-09-14,ORIENTTECH,S3,,3,249.64,229.0,270.28,290.92,1.2,54.8,15.59,ORIENT TECHNOLOGIES LTD Share Price - Live NSE: ORIENTTECH Stock Price & Chart - Upstox
-2026-09-14,AGI,S4,NEWS,3,762.65,725.7,799.6,836.55,1.19,55.2,0.38,AGI Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,BECTORFOOD,S4,NEWS,3,242.5,222.14,262.86,283.22,1.14,57.8,0.58,BECTORFOOD Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,MCX,S2+S4,,3,3276.0,3165.6,3386.4,3496.8,1.12,57.9,0.73,"Stock market holiday 2026: Are NSE, BSE shut today for Ganesh Chaturthi? Here's what GIFT Nifty indicates - Moneycontrol.com"
-2026-09-14,NORTHARC,S4,NEWS,3,305.1,292.1,318.1,331.1,1.12,55.6,0.25,NORTHARC Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,DRREDDY,S3,NEWS,3,1165.5,1130.0,1201.0,1236.5,1.1,47.7,2.04,Is It Smart To Buy Dr. Reddy's Laboratories Limited (NSE:DRREDDY) Before It Goes Ex-Dividend? - simplywall.st
-2026-09-14,AVALON,S2+S4,ERN,3,2264.5,2139.3,2389.7,2514.9,1.08,58.7,0.67,Avalon Technologies Q2 FY27: Date and Outlook - Univest
-2026-09-14,CUPID,S2+S4,ERN,3,280.0,265.45,294.55,309.1,1.05,57.4,0.55,Investors Shouldn't Be Too Comfortable With Cupid's (NSE:CUPID) Earnings - simplywall.st
-2026-09-14,GLAND,S2+S4,NEWS,3,2922.3,2803.0,3041.6,3160.9,1.0,58.4,0.67,General Updates
-2026-09-14,APOLLOHOSP,S2+S4,ERN,3,8836.0,8640.0,9032.0,9228.0,0.96,51.4,0.63,"Apollo Hospitals share price rises nearly 6% as Q3 profit up 35% to ₹502 crore, dividend announcement; check key numbers - Upstox"
-2026-09-14,ORIENTHOT,S2+S4,NEWS,3,141.35,136.25,146.45,151.55,0.95,58.5,0.12,"Orient Hotels Stock Prediction 2026: Analyst Targets, Forecast and Key Levels - Univest"
-2026-09-14,TFCILTD,S2,ERN,3,141.49,134.92,148.06,154.62,0.94,69.7,0.5,Tourism Finance Corporation of India (NSE:TFCILTD) stock performs better than its underlying earnings growth over last five years - simplywall.st
-2026-09-14,ATHERENERG,S2,ERN,3,1656.0,1560.9,1751.1,1846.2,0.93,64.1,0.96,When Can We Expect A Profit From Ather Energy Limited (NSE:ATHERENERG)? - simplywall.st
-2026-09-14,ENGINERSIN,S2,NEWS,3,268.95,246.76,291.14,313.33,0.93,59.5,0.27,ENGINERSIN Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,SUNDRMFAST,S2,NEWS,3,1270.0,1187.1,1352.9,1435.8,0.93,69.6,0.65,SUNDRMFAST Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,WAAREEENER,S3,ERN,3,2625.0,2515.1,2734.9,2844.8,0.93,47.3,2.14,Waaree Energies Limited Just Missed Earnings - But Analysts Have Updated Their Models - simplywall.st
-2026-09-14,CGCL,S2,NEWS,3,266.0,242.3,289.7,313.4,0.91,59.1,0.25,CGCL Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,SHANTIGOLD,S4,ERN,3,258.17,233.41,282.93,307.69,0.91,55.9,0.41,27% Up In One Month: Shanti Gold Share Price Falls Over 1% In Trade. Know Why - NDTV Profit
-2026-09-14,ENTERO,S2,NEWS,3,1815.4,1699.25,1931.55,2047.7,0.9,69.5,0.24,General Updates
-2026-09-14,BEPL,S2+S4,EXP,3,128.08,119.15,137.01,145.94,0.89,54.3,0.6,Dividend Investors: Don't Be Too Quick To Buy Bhansali Engineering Polymers Limited (NSE:BEPL) For Its Upcoming Dividend - simplywall.st
-2026-09-14,MOTILALOFS,S2+S4,ERN,3,1026.5,988.0,1065.0,1103.5,0.88,59.8,0.49,Motilal Oswal Financial shares jump over 10% post Q3 earnings; check numbers - Upstox
-2026-09-14,MIDHANI,S2,NEWS,3,447.4,406.6,488.2,529.0,0.86,56.7,0.62,MIDHANI Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,ORCHPHARMA,S4,NEWS,3,1003.05,924.95,1081.15,1159.25,0.86,52.6,0.84,ORCHPHARMA Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,ZYDUSWELL,S4,NEWS,3,552.0,518.15,585.85,619.7,0.86,56.0,0.34,Should You Buy Zydus Wellness Limited (NSE:ZYDUSWELL) For Its Upcoming Dividend? - simplywall.st
-2026-09-14,ARVIND,S2+S4,EXP,3,575.1,537.5,612.7,650.3,0.85,58.8,0.6,Analysts/Institutional Investor Meet/Con. Call Updates
-2026-09-14,BHEL,S2+S4,EXP,3,431.0,417.35,444.65,458.3,0.85,55.2,0.96,Acquisition
-2026-09-14,KRN,S2+S4,NEWS,3,1593.6,1483.5,1703.7,1813.8,0.85,61.4,0.67,KRN Heat Exchanger and Refrigeration Share Price Target 2027 to 2 - Univest
-2026-09-14,AJAXENGG,S4,ERN,3,590.6,564.1,617.1,643.6,0.84,56.5,1.04,Some Investors May Be Willing To Look Past Ajax Engineering's (NSE:AJAXENGG) Soft Earnings - simplywall.st
-2026-09-14,CARTRADE,S2+S4,EXP,3,3087.9,2888.7,3287.1,3486.3,0.83,58.8,0.71,Institutional investors control 57% of CarTrade Tech Limited (NSE:CARTRADE) and were rewarded last week after stock increased 8.3% - simplywall.st
-2026-09-14,BOSCHLTD,S2+S4,NEWS,3,48385.0,46410.0,50360.0,52335.0,0.82,58.6,0.52,Copy of Newspaper Publication
-2026-09-14,AZAD,S2+S4,ERN,3,2849.1,2677.8,3020.4,3191.7,0.8,60.4,0.88,Azad Engineering's (NSE:AZAD) Earnings Are Weaker Than They Seem - simplywall.st
-2026-09-14,VOLTAMP,S4,NEWS,3,11217.0,10605.0,11829.0,12441.0,0.79,60.2,0.56,VOLTAMP Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,KALYANKJIL,S2+S4,NEWS,3,601.15,556.5,645.8,690.45,0.78,52.6,0.73,KALYANKJIL Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,BLUSPRING,S2+S4,EXP,3,131.48,120.52,142.44,153.4,0.76,54.5,0.56,"Bluspring Enterprises shares rally 10% to hit 52-week high as arm bags ₹1,437 crore order from Vedanta firm - Upstox"
-2026-09-14,PGIL,S2+S4,ERN,3,1187.7,1107.75,1267.65,1347.6,0.75,55.2,0.8,Pearl Global Industries Limited Just Recorded A 12% Revenue Beat: Here's What Analysts Think - simplywall.st
-2026-09-14,SUNTV,S3,NEWS,3,476.0,447.7,504.3,532.6,0.75,51.7,6.42,SUNTV Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,BALPHARMA,S3,NEWS,3,107.42,84.1,130.74,154.06,0.74,70.2,2.8,Bal Pharma Share Price Target 2026: Rs 105 Analyst Forecast - Univest
-2026-09-14,CARYSIL,S4,ERN,3,1161.9,1095.1,1228.7,1295.5,0.74,51.0,0.77,Carysil Limited (NSE:CARYSIL) Analysts Are Pretty Bullish On The Stock After Recent Results - simplywall.st
-2026-09-14,PCBL,S4,NEWS,3,331.05,310.7,351.4,371.75,0.73,56.9,0.67,We Wouldn't Be Too Quick To Buy PCBL Chemical Limited (NSE:PCBL) Before It Goes Ex-Dividend - simplywall.st
-2026-09-14,MARINE,S2,ERN,3,419.15,376.25,462.05,504.95,0.72,66.5,0.75,Marine Electricals (India) Q1 FY27 Results Preview - Univest
-2026-09-14,TORNTPHARM,S2+S4,NEWS,3,4965.5,4823.0,5108.0,5250.5,0.71,52.2,0.93,TORNTPHARM Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,NEULANDLAB,S2+S4,NEWS,3,23535.0,22550.0,24520.0,25505.0,0.7,59.0,0.93,NEULANDLAB Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,SOMANYCERA,S2+S4,NEWS,3,565.2,548.01,582.39,599.59,0.67,61.6,0.52,Is It Smart To Buy Somany Ceramics Limited (NSE:SOMANYCERA) Before It Goes Ex-Dividend? - simplywall.st
-2026-09-14,PNB,S4,ERN,3,116.75,113.16,120.34,123.93,0.65,56.2,0.96,"PNB shares jump up to 5% as Q1 net profit surges over three-fold, brokerages see up to 28% upside - Moneycontrol.com"
-2026-09-14,INNOVANA,S3,ERN,3,327.0,291.05,362.95,398.9,0.64,58.0,2.45,"Earnings Beat: Innova Captab Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - simplywall.st"
-2026-09-14,AUROPHARMA,S2+S4,EXP,3,1679.8,1620.1,1739.5,1799.2,0.62,57.0,0.6,Acquisition
-2026-09-14,TALBROAUTO,S2+S4,EXP,3,423.75,394.5,453.0,482.25,0.62,55.6,0.76,Here's Why Talbros Automotive Components (NSE:TALBROAUTO) Has Caught The Eye Of Investors - simplywall.st
-2026-09-14,XPROINDIA,S4,ERN,3,1294.7,1110.0,1479.4,1664.1,0.62,55.7,0.3,Xpro India's (NSE:XPROINDIA) Anemic Earnings Might Be Worse Than You Think - simplywall.st
-2026-09-14,KANPRPLA,S4,ERN,3,264.6,233.55,295.65,326.7,0.6,58.6,1.31,Investors Shouldn't Be Too Comfortable With Kanpur Plastipack's (NSE:KANPRPLA) Earnings - simplywall.st
-2026-09-14,NAZARA,S2,ERN,3,370.3,354.0,386.6,402.9,0.6,63.8,0.63,Some May Be Optimistic About Nazara Technologies' (NSE:NAZARA) Earnings - simplywall.st
-2026-09-14,JKPAPER,S2+S4,ERN,3,414.25,387.0,441.5,468.75,0.57,60.4,0.69,JK Paper's (NSE:JKPAPER) 23% CAGR outpaced the company's earnings growth over the same five-year period - simplywall.st
-2026-09-14,CGPOWER,S2+S4,ERN,3,909.0,870.0,948.0,987.0,0.56,54.4,0.87,CG Power and Industrial Solutions Limited Just Missed Earnings - But Analysts Have Updated Their Models - simplywall.st
-2026-09-14,INNOVACAP,S2,ERN,3,1147.2,1052.1,1242.3,1337.4,0.56,63.0,0.49,"Earnings Beat: Innova Captab Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - simplywall.st"
-2026-09-14,ANANDRATHI,S2+S4,NEWS,3,2211.0,2155.0,2267.0,2323.0,0.55,60.1,0.9,General Updates
-2026-09-14,ARTEMISMED,S2,NEWS,3,344.9,314.05,375.75,406.6,0.55,64.8,0.82,Should You Buy Artemis Medicare Services Limited (NSE:ARTEMISMED) For Its Upcoming Dividend? - simplywall.st
-2026-09-14,DCBBANK,S2,ERN,3,226.37,211.0,241.74,257.11,0.55,68.0,0.36,"DCB Bank soars 10% on huge volume, nears 52-week high post Q1 results - business-standard.com"
-2026-09-14,INOXINDIA,S2,NEWS,3,2246.6,2076.4,2416.8,2587.0,0.55,63.0,0.5,INOXINDIA Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,JINDALSAW,S2,NEWS,3,311.95,297.35,326.55,341.15,0.55,64.7,0.56,"Jindal Saw Share Price Target 2026: Expert Forecast, Growth Catalysts and Key Risks - Univest"
-2026-09-14,IPCALAB,S2,NEWS,3,1968.5,1907.9,2029.1,2089.7,0.54,64.2,0.28,IPCALAB Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,INDSWFTLAB,S2,NEWS,3,385.35,348.59,422.11,458.87,0.51,69.2,0.41,Ind-Swift Laboratories Share Price Target 2026: Rs 190 Analyst Forecast - Univest
-2026-09-14,ADANIENT,S2+S4,NEWS,3,3060.0,2830.5,3289.5,3519.0,0.5,54.4,0.86,Should You Think About Buying Adani Enterprises Limited (NSE:ADANIENT) Now? - simplywall.st
-2026-09-14,AVL,S4,NEWS,3,616.45,583.65,649.25,682.05,0.5,54.0,0.99,Aditya Vision (AVL.NS) Surges 3.85% as Bulls Target ₹585 Resistance - EMA Signal - vinanet.vn
-2026-09-14,CAPLIPOINT,S2,NEWS,3,2754.9,2492.2,3017.6,3280.3,0.47,59.2,0.42,CAPLIPOINT Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,SHREEJISPG,S2,NEWS,3,691.75,628.0,755.5,819.25,0.47,60.7,0.76,Agreements
-2026-09-14,ASIANENE,S2,ERN,3,535.1,466.65,603.55,672.0,0.45,67.3,0.56,Asian Energy Services Stock Falls After Q1 Results - Kalkine India
-2026-09-14,KINGFA,S2,ERN,3,6197.0,5855.5,6538.5,6880.0,0.44,65.2,0.7,Kingfa Science & Technology (India)'s (NSE:KINGFA) earnings growth rate lags the 41% CAGR delivered to shareholders - simplywall.st
-2026-09-14,SKYGOLD,S2,ERN,3,827.4,733.0,921.8,1016.2,0.44,61.5,0.5,Sky Gold and Diamonds Limited (NSE:SKYGOLD) Just Reported First-Quarter Earnings And Analysts Are Lifting Their Estimates - simplywall.st
-2026-09-14,MOREPENLAB,S2,ERN,3,115.78,100.1,131.46,147.14,0.43,72.2,0.63,Morepen Laboratories' (NSE:MOREPENLAB) Shareholders Have More To Worry About Than Only Soft Earnings - simplywall.st
-2026-09-14,PNGJL,S4,ERN,3,613.2,563.1,663.3,713.4,0.43,51.6,0.59,Analysts Are Updating Their P N Gadgil Jewellers Limited (NSE:PNGJL) Estimates After Its First-Quarter Results - simplywall.st
-2026-09-14,AEROFLEX,S2,,3,563.95,515.55,612.35,660.75,0.42,65.6,0.69,Should You Be Adding Aeroflex Industries (NSE:AEROFLEX) To Your Watchlist Today? - simplywall.st
-2026-09-14,DATAPATTNS,S2+S4,NEWS,3,4829.2,4420.9,5237.5,5645.8,0.42,57.8,0.64,DATAPATTNS Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,DEEPINDS,S2,NEWS,3,774.4,655.0,893.8,1013.2,0.42,65.0,0.99,DEEPINDS Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,PRABHA,S2,,3,244.64,201.1,288.18,331.72,0.42,75.9,0.53,PRABHA ENERGY Share Price Gain: Technicals and Valuation - Univest
-2026-09-14,VINDHYATEL,S2,EXP,3,2813.5,2486.1,3140.9,3468.3,0.42,67.4,0.7,Vindhya Telelinks Limited's (NSE:VINDHYATEL) largest shareholders are individual investors who were rewarded as market cap surged ₹2.6b last week - simplywall.st
-2026-09-14,NOCIL,S2,NEWS,3,189.65,163.12,216.18,242.71,0.41,69.4,0.93,NOCIL Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,WELSPUNLIV,S2,NEWS,3,207.68,187.31,228.05,248.42,0.41,71.5,0.33,WELSPUNLIV Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,ASPINWALL,S4,,3,260.5,239.2,281.8,303.1,0.4,58.7,1.75,Aspinwall & Co Share Price - Upstox
-2026-09-14,FLUOROCHEM,S2+S4,ERN,3,4773.2,4461.1,5085.3,5397.4,0.4,59.0,0.76,"Gujarat Fluorochemicals Limited (NSE:FLUOROCHEM) Released Earnings Last Week And Analysts Lifted Their Price Target To ₹4,624 - simplywall.st"
-2026-09-14,VISHNU,S2,EXP,3,713.95,643.6,784.3,854.65,0.4,68.8,0.58,"SBI MF acquires additional 6% stake in Privi Speciality, promoters sell 4% shares in Vishnu Prakash R... - Moneycontrol.com"
-2026-09-14,WINDLAS,S2,NEWS,3,1129.25,986.1,1272.4,1415.55,0.37,73.4,0.32,Windlas Biotech Share Price Target 2027 to 2030: Analyst Outlook - Univest
-2026-09-14,MANORAMA,S2,ERN,3,2055.7,1795.1,2316.3,2576.9,0.36,65.8,0.11,Manorama Industries' (NSE:MANORAMA) Promising Earnings May Rest On Soft Foundations - simplywall.st
-2026-09-14,SYRMA,S2,ERN,3,1589.3,1392.6,1786.0,1982.7,0.36,64.2,0.65,There May Be Underlying Issues With The Quality Of Syrma SGS Technology's (NSE:SYRMA) Earnings - simplywall.st
-2026-09-14,NYKAA,S2+S4,EXP,3,344.5,329.75,359.25,374.0,0.34,59.3,0.95,Here's Why FSN E-Commerce Ventures (NSE:NYKAA) Has Caught The Eye Of Investors - simplywall.st
-2026-09-14,WELENT,S2,ERN,3,786.2,665.05,907.35,1028.5,0.32,71.3,0.28,Little Excitement Around Welspun Enterprises Limited's (NSE:WELENT) Earnings - simplywall.st
-2026-09-14,CENTUM,S2,NEWS,3,4192.0,3366.0,5018.0,5844.0,0.31,67.4,0.26,Centum new share buyback set below market price - Business Daily
-2026-09-14,RML,S2,,3,1360.0,1100.0,1620.0,1880.0,0.31,67.2,0.47,Here's What We Like About Rane (Madras)'s (NSE:RML) Upcoming Dividend - simplywall.st
-2026-09-14,WELCORP,S2,NEWS,3,2676.6,2328.0,3025.2,3373.8,0.31,73.0,0.38,WELCORP Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,EXICOM,S2,EXP,3,182.28,158.15,206.41,230.54,0.29,63.9,0.91,Why Are Investors Tracking Exicom Tele-Systems (NSE: EXICOM) Shares After This Strong Move? - Kalkine India
-2026-09-14,GOODLUCK,S2,NEWS,3,516.85,437.4,596.3,675.75,0.28,62.5,0.84,Bonus issue alert! Last day to buy Goodluck India shares for 2:1 bonus reward. How will dividend payout be - The Economic Times
-2026-09-14,KPIL,S2,EXP,3,1435.7,1375.1,1496.3,1556.9,0.28,65.0,0.62,"Kalpataru Projects international bags ₹2,002 cr orders - BusinessLine"
-2026-09-14,PITTIENG,S2,NEWS,3,1167.9,1055.0,1280.8,1393.7,0.28,68.8,0.78,PITTIENG Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,RGL,S2,ERN,3,155.49,134.06,176.92,198.35,0.27,65.8,0.39,Renaissance Global's (NSE:RGL) five-year earnings growth trails the 15% YoY shareholder returns - simplywall.st
-2026-09-14,EBGNG,S2,,3,679.65,583.0,776.3,872.95,0.26,64.4,0.62,"GNG Electronics Limited (NSE: EBGNG) Stock Price, News & Analysis - Kalkine"
-2026-09-14,MAXESTATES,S2,ERN,3,560.45,485.1,635.8,711.15,0.25,69.5,0.29,We Think You Can Look Beyond Max Estates' (NSE:MAXESTATES) Lackluster Earnings - simplywall.st
-2026-09-14,BANDHANBNK,S3,NEWS,3,176.52,159.24,193.8,211.08,0.24,56.7,3.18,BANDHANBNK Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,ROSSTECH,S2,NEWS,3,1214.3,1091.0,1337.6,1460.9,0.22,69.2,0.62,Here's Why We Think Rossell Techsys (NSE:ROSSTECH) Is Well Worth Watching - simplywall.st
-2026-09-14,STAR,S2,NEWS,3,1183.4,1006.9,1359.9,1536.4,0.22,71.4,0.26,STAR Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,UNIPARTS,S2,EXP,3,897.45,813.05,981.85,1066.25,0.22,65.7,0.9,Investors Don't See Light At End Of Uniparts India Limited's (NSE:UNIPARTS) Tunnel - simplywall.st
-2026-09-14,RBLBANK,S2,NEWS,3,412.55,375.0,450.1,487.65,0.21,66.8,0.95,Credit Rating
-2026-09-14,CEIGALL,S2,ERN,3,380.4,336.6,424.2,468.0,0.2,76.0,0.34,Ceigall India (NSE:CEIGALL) Ticks All The Boxes When It Comes To Earnings Growth - simplywall.st
-2026-09-14,CPPLUS,S2,NEWS,3,3825.5,3460.2,4190.8,4556.1,0.2,60.3,0.61,CPPLUS Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,SAKAR,S2,EXP,3,1158.55,856.3,1460.8,1763.05,0.17,72.9,0.93,Analysts/Institutional Investor Meet/Con. Call Updates
-2026-09-14,SSWL,S2,NEWS,3,370.65,289.5,451.8,532.95,0.17,74.4,0.54,SSWL Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,SESHAPAPER,S3,ERN,3,251.14,226.5,275.78,300.42,0.16,71.7,3.01,Seshasayee Paper and Boards Limited's (NSE:SESHAPAPER) Earnings Are Not Doing Enough For Some Investors - simplywall.st
-2026-09-14,GMMPFAUDLR,S2,NEWS,3,1307.9,1011.05,1604.75,1901.6,0.15,84.8,0.83,Three Days Left To Buy GMM Pfaudler Limited (NSE:GMMPFAUDLR) Before The Ex-Dividend Date - simplywall.st
-2026-09-14,HATSUN,S2,,3,1224.4,1116.3,1332.5,1440.6,0.15,71.8,0.98,Does Hatsun Agro Product (NSE:HATSUN) Deserve A Spot On Your Watchlist? - simplywall.st
-2026-09-14,EMCURE,S2,NEWS,3,1978.9,1835.0,2122.8,2266.7,0.14,64.8,0.93,EMCURE Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,RISHABH,S2,NEWS,3,829.6,675.0,984.2,1138.8,0.14,75.6,0.49,Rishabh Instruments Share Price Target 2026: Rs 680 Analyst Forecast - Univest
-2026-09-14,SHANTIGEAR,S2,ERN,3,714.95,511.0,918.9,1122.85,0.14,83.7,0.13,SHANTIGEAR Q2 2026 Earnings: Revenue Decline Impacts Bottom Line; Stock Slightly Up - Annual Financial Report - vinanet.vn
-2026-09-14,ADANIPORTS,S2,ERN,3,1764.6,1593.1,1936.1,2107.6,0.12,58.7,0.67,"Adani Ports share price tanks 3% after Q1 results 2026. Should you buy, sell or hold? - Livemint"
-2026-09-14,EIMCOELECO,S2,,3,2325.5,2152.2,2498.8,2672.1,0.11,71.7,0.5,Eimco Elecon (India) (NSE:EIMCOELECO) Is Doing The Right Things To Multiply Its Share Price - simplywall.st
-2026-09-14,GOCLCORP,S2,,3,441.55,382.55,500.55,559.55,0.11,66.5,0.54,Insufficient Growth At GOCL Corporation Limited (NSE:GOCLCORP) Hampers Share Price - simplywall.st
-2026-09-14,PKTEA,S3,ERN,3,1121.75,700.0,1543.5,1965.25,0.11,80.8,2.67,"PKTEA.NS Mar 2026 Earnings: Sharp Loss Despite Modest Revenue, Shares Dip - Earnings Recovery Stocks - vinanet.vn"
-2026-09-14,SANSERA,S2,EXP,3,4129.9,3733.7,4526.1,4922.3,0.1,66.0,0.66,"Sansera Engineering: Strong order wins lift growth outlook; Nomura raises target to Rs 4,278 - Moneycontrol.com"
-2026-09-14,LAURUSLABS,S2,NEWS,3,1969.0,1811.7,2126.3,2283.6,0.08,67.8,0.64,LAURUSLABS Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,WSTCSTPAPR,S2,ERN,3,713.8,607.0,820.6,927.4,0.08,70.4,0.92,West Coast Paper Mills' (NSE:WSTCSTPAPR) Shareholders Have More To Worry About Than Only Soft Earnings - simplywall.st
-2026-09-14,SMLMAH,S2,EXP,3,6583.0,5079.0,8087.0,9591.0,0.05,71.0,0.84,Here's Why SML Mahindra (NSE:SMLMAH) Has Caught The Eye Of Investors - simplywall.st
-2026-09-14,INGERRAND,S2,NEWS,2,4573.0,4506.3,4639.7,4706.4,5.73,46.0,0.32,INGERRAND Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,VRLLOG,S2,,2,288.3,284.1,292.5,296.7,3.95,50.9,0.71,Here's What We Like About VRL Logistics' (NSE:VRLLOG) Upcoming Dividend - simplywall.st
-2026-09-14,MUFIN,S2,NEWS,2,134.76,132.61,136.91,139.06,3.13,48.5,0.31,General Updates
-2026-09-14,GARFIBRES,S2,ERN,2,795.7,771.25,820.15,844.6,2.3,51.3,0.74,"GARFIBRES Mar 2026 Earnings: Solid Revenue of ₹371 Crore, EPS at ₹5.52 - Financial Health Score - vinanet.vn"
-2026-09-14,MMFL,S4,NEWS,2,631.7,603.3,660.1,688.5,1.98,53.3,0.37,Is It Smart To Buy M M Forgings Limited (NSE:MMFL) Before It Goes Ex-Dividend? - simplywall.st
-2026-09-14,SIEMENS,S2,EXP,2,3957.0,3858.4,4055.6,4154.2,1.95,51.0,0.51,Amalgamation/Merger
-2026-09-14,AUSOMENT,S4,ERN,2,152.59,144.65,160.53,168.47,1.76,58.8,0.91,We Ran A Stock Scan For Earnings Growth And AuSom Enterprise (NSE:AUSOMENT) Passed With Ease - simplywall.st
-2026-09-14,IGPL,S2+S4,NEWS,2,547.05,522.4,571.7,596.35,1.74,60.7,0.47,IGPL Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,GRASIM,S2,EXP,2,3281.9,3229.0,3334.8,3387.7,1.68,50.8,0.46,Action(s) initiated or orders passed
-2026-09-14,KAJARIACER,S2,NEWS,2,1226.4,1194.2,1258.6,1290.8,1.49,49.8,0.46,KAJARIACER Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,PYRAMID,S3,ERN,2,157.74,150.0,165.48,173.22,1.49,44.3,2.34,Pyramid Technoplast's (NSE:PYRAMID) Shareholders May Want To Dig Deeper Than Statutory Profit - simplywall.st
-2026-09-14,TBOTEK,S2,NEWS,2,1679.5,1632.2,1726.8,1774.1,1.49,52.0,0.75,TBOTEK Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,NILKAMAL,S2+S4,NEWS,2,2050.8,1980.2,2121.4,2192.0,1.4,57.4,0.22,NILKAMAL Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,NPST,S4,EXP,2,1686.1,1621.0,1751.2,1816.3,1.37,56.0,0.4,Network People Services Technologies Limited's (NSE:NPST) Popularity With Investors Is Clear - simplywall.st
-2026-09-14,TINNARUBR,S4,EXP,2,1034.05,977.5,1090.6,1147.15,1.36,49.7,0.63,Tinna Rubber TINNARUBR GIA Recycling Day Investor Meet Sep 2026 - Kalkine India
-2026-09-14,ELGIEQUIP,S2,NEWS,2,617.7,596.0,639.4,661.1,1.3,51.2,0.38,Credit Rating
-2026-09-14,TEXINFRA,S2+S4,NEWS,2,115.52,111.0,120.04,124.56,1.28,56.6,0.68,Shareholders meeting
-2026-09-14,ARIES,S4,ERN,2,475.6,442.0,509.2,542.8,1.26,59.7,0.17,Aries Agro Q2 Results FY27: Date and Expectations - Univest
-2026-09-14,LINCOLN,S4,ERN,2,623.5,603.05,643.95,664.4,1.22,53.8,0.91,Lincoln Pharmaceuticals Q2 FY27: Date and Outlook - Univest
-2026-09-14,KOTHARIPET,S4,NEWS,2,138.57,128.0,149.14,159.71,1.19,52.3,0.35,Kothari Petrochemicals (NSE:KOTHARIPET) Could Be A Buy For Its Upcoming Dividend - simplywall.st
-2026-09-14,SCPL,S2+S4,,2,646.8,608.3,685.3,723.8,1.12,53.9,0.15,Sheetal Cool Products (NSE:SCPL) Might Have The Makings Of A Multi-Bagger - simplywall.st
-2026-09-14,SHIVATEX,S4,ERN,2,178.05,164.1,192.0,205.95,1.02,61.5,0.81,Shiva Texyarn Shares price Surge 9.94% on Q2 Profit Jump - HDFC Sky
-2026-09-14,MUKANDLTD,S4,NEWS,2,139.48,132.22,146.74,154.0,0.97,54.4,0.94,"Mukand Share Price Target 2026: Bull Case Rs 180, Bear Case Rs 14 - Univest"
-2026-09-14,GUFICBIO,S2+S4,NEWS,2,425.1,395.05,455.15,485.2,0.96,53.3,0.64,Gufic Biosciences Share Price Target 2026: Rs 430 Analyst Forecast - Univest
-2026-09-14,IMPAL,S4,ERN,2,1113.2,1050.0,1176.4,1239.6,0.9,51.5,0.42,IMPAL Rises 3.4% on Q2 Profit Growth - HDFC Sky
-2026-09-14,ARMANFIN,S2+S4,EXP,2,2011.3,1927.0,2095.6,2179.9,0.87,54.0,0.42,"Arman Financial Services Limited's (NSE:ARMANFIN) market cap up ₹1.6b last week, benefiting both retail investors who own 46% as well as insiders - simplywall.st"
-2026-09-14,JINDALPOLY,S4,EXP,2,671.3,620.1,722.5,773.7,0.85,54.7,0.41,Jindal Poly Investment and Finance Share Price - Upstox
-2026-09-14,TNPL,S4,NEWS,2,153.27,139.65,166.89,180.51,0.85,56.4,0.59,Tamil Nadu Newsprint and Papers (NSE:TNPL) Could Be A Buy For Its Upcoming Dividend - simplywall.st
-2026-09-14,COMSYN,S2,NEWS,2,299.15,277.23,321.07,342.99,0.72,67.3,0.19,Trading Window
-2026-09-14,DICIND,S2,NEWS,2,602.1,547.3,656.9,711.7,0.67,58.0,0.22,DIC India Share Price Target 2026: Rs 615 Analyst Forecast - Univest
-2026-09-14,GPTHEALTH,S4,NEWS,2,159.38,150.0,168.76,178.14,0.64,55.8,0.96,Should You Buy GPT Healthcare Limited (NSE:GPTHEALTH) For Its Upcoming Dividend? - simplywall.st
-2026-09-14,ORIENTBELL,S2,NEWS,2,401.95,366.1,437.8,473.65,0.64,63.1,0.46,"Orient Bell Share Price Target 2026: Bull Case Rs 370, Bear Case - Univest"
-2026-09-14,PLASTIBLEN,S4,NEWS,2,192.78,181.8,203.76,214.74,0.58,53.6,1.0,"Plastiblends India Share Price Target 2026: Bull Case Rs 220, Bea - Univest"
-2026-09-14,TASTYBITE,S2+S4,NEWS,2,10273.0,9734.0,10812.0,11351.0,0.5,61.5,0.17,"Tasty Bite Eatables Share Price Target 2026: Rs 10,000 Analyst Forecast - Univest"
-2026-09-14,NITINSPIN,S2,NEWS,2,651.05,617.9,684.2,717.35,0.44,65.5,0.18,NITINSPIN Forecast — Price Target — Prediction for 2027 - TradingView
-2026-09-14,MANBA,S4,NEWS,2,132.47,128.0,136.94,141.41,0.43,54.5,0.78,Manba Finance Share Price Target 2026: Rs 155 Analyst Forecast - Univest
-2026-09-14,WIPL,S4,ERN,2,169.58,161.55,177.61,185.64,0.41,54.2,0.07,WIPL Mar 2026 Earnings: Steady Performance with EPS of ₹0.34 on Revenue of ₹28.32 Crore - Earnings Risk Report - vinanet.vn
-2026-09-14,BIL,S2,NEWS,2,1073.0,844.55,1301.45,1529.9,0.34,77.7,0.6,BIL Vyapar Share Price: Buy or Sell - Univest
-2026-09-14,RANEHOLDIN,S4,ERN,2,1696.2,1538.1,1854.3,2012.4,0.28,56.3,0.32,Earnings Troubles May Signal Larger Issues for Rane Holdings (NSE:RANEHOLDIN) Shareholders - simplywall.st
-2026-09-14,SHIVAUM,S2,ERN,2,465.4,400.0,530.8,596.2,0.28,67.8,0.2,Basic earnings per share (basic EPS) of Shiv Aum Steels Ltd. – NSE:SHIVAUM - TradingView
-2026-09-14,OAL,S2,ERN,2,532.1,424.0,640.2,748.3,0.26,73.0,0.3,OAL FY26 Net Profit Falls 90.7% on Higher Costs - scanx.trade
-2026-09-14,CHEVIOT,S4,NEWS,2,1207.8,1101.0,1314.6,1421.4,0.25,60.5,0.98,Cheviot Company Share Price Target 2027 to 2030: Analyst Outlook - Univest
-2026-09-14,ZIMLAB,S2,ERN,2,139.22,116.25,162.19,185.16,0.23,66.8,0.92,ZIMLAB Mar 2026 Earnings: Revenue of ₹102.85 crore and EPS of ₹0.61; stock reacts modestly - vinanet.vn
-2026-09-14,SAHYADRI,S2,ERN,2,390.9,334.45,447.35,503.8,0.21,65.1,0.63,Do Sahyadri Industries' (NSE:SAHYADRI) Earnings Warrant Your Attention? - simplywall.st
-2026-09-14,MMP,S2,NEWS,2,469.95,366.6,573.3,676.65,0.15,72.6,0.7,Shareholders meeting
-2026-09-14,KAPSTON,S2,EXP,2,588.2,504.7,671.7,755.2,0.12,64.4,0.77,Investors Appear Satisfied With Kapston Services Limited's (NSE:KAPSTON) Prospects As Shares Rocket 38% - simplywall.st
-2026-09-14,GLOBAL,S2,EXP,2,126.91,104.41,149.41,171.91,0.11,72.3,0.99,Can the NSE topple Nasdaq’s hold in global m-cap stakes? - Fortune India
-2026-09-14,MANAKSTEEL,S2,ERN,2,117.91,90.88,144.94,171.97,0.11,77.2,0.79,MANAKSTEEL Mar 2026 Earnings: Modest Profitability on Stable Steel Volumes - Earnings Season Outlook - vinanet.vn
-2026-09-14,VALIANTLAB,S2,EXP,2,127.91,91.53,164.29,200.67,0.05,81.4,0.91,Valiant Laboratories' Subsidiary Launches Production at New Gujarat Facility - scanx.trade
+2026-09-15,CRAFTSMAN,S4,ERN,5,11099.0,10925.0,11273.0,11447.0,5.17,54.0,1.32,Investors Shouldn't Be Too Comfortable With Craftsman Automation's (NSE:CRAFTSMAN) Earnings - simplywall.st
+2026-09-15,LAOPALA,S3,ERN,4,160.63,158.51,162.75,164.87,15.0,29.8,2.31,La Opala RG's (NSE:LAOPALA) Anemic Earnings Might Be Worse Than You Think - simplywall.st
+2026-09-15,OMAXE,S4,NEWS,4,118.04,116.1,119.98,121.92,10.75,54.6,0.11,Copy of Newspaper Publication
+2026-09-15,UFLEX,S4,,4,636.1,627.0,645.2,654.3,9.6,56.4,0.14,Uflex Ltd. Share Price and Sector Comparison After High - Univest
+2026-09-15,FIRSTCRY,S3,NEWS,4,171.53,166.95,176.11,180.69,9.35,28.6,11.68,Brainbees Solutions FirstCry Share Price: Buy or Sell - Univest
+2026-09-15,ATHERENERG,S4,ERN,4,1568.5,1545.5,1591.5,1614.5,7.63,53.4,0.72,When Can We Expect A Profit From Ather Energy Limited (NSE:ATHERENERG)? - simplywall.st
+2026-09-15,WELCORP,S4,NEWS,4,2413.3,2363.6,2463.0,2512.7,7.47,54.8,0.99,WELCORP Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,OIL,S4,,4,485.6,481.45,489.75,493.9,6.95,54.3,0.8,Oil India Share Price - Live NSE: OIL Stock Price & Chart - Upstox
+2026-09-15,KIRIINDUS,S4,,4,522.85,509.0,536.7,550.55,5.86,54.6,0.26,Kiri Industries Ltd. Share Price Today Up 8.18%: Stock News - Univest
+2026-09-15,PREMEXPLN,S4,EXP,4,668.3,661.1,675.5,682.7,4.75,50.8,0.81,Premier Explosives Rises 4.15% on ₹190 Cr Export Order - HDFC Sky
+2026-09-15,TNPETRO,S4,,4,125.71,120.61,130.81,135.91,4.17,55.7,0.3,Is Tamilnadu Petroproducts Limited's (NSE:TNPETRO) Stock Price Struggling As A Result Of Its Mixed Financials? - simplywall.st
+2026-09-15,ORIENTHOT,S2+S4,NEWS,4,138.98,136.95,141.01,143.04,3.56,53.5,0.28,"Orient Hotels Stock Prediction 2026: Analyst Targets, Forecast and Key Levels - Univest"
+2026-09-15,GANDHAR,S4,ERN,4,260.45,255.05,265.85,271.25,3.25,54.9,0.88,Gandhar Oil Refinery shares rally 20% to hit upper circuit following strong earnings; check all Q1 numbers - Upstox
+2026-09-15,TFCILTD,S2,ERN,4,138.18,135.23,141.13,144.07,3.21,62.5,0.74,Tourism Finance Corporation of India (NSE:TFCILTD) stock performs better than its underlying earnings growth over last five years - simplywall.st
+2026-09-15,UNIPARTS,S2+S4,EXP,4,865.7,850.0,881.4,897.1,3.2,56.3,0.61,Investors Don't See Light At End Of Uniparts India Limited's (NSE:UNIPARTS) Tunnel - simplywall.st
+2026-09-15,IKIO,S4,,4,211.06,201.98,220.14,229.22,3.06,52.1,0.4,"Insiders are the top stockholders in IKIO Technologies Limited (NSE:IKIO), and the recent 11% drop might have disappointed them - simplywall.st"
+2026-09-15,DIVISLAB,S2+S4,NEWS,4,9198.0,9060.72,9335.28,9472.56,3.04,59.2,0.84,DIVISLAB Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,PARAGMILK,S4,EXP,4,252.15,243.95,260.35,268.55,3.0,56.0,0.81,Here's Why Parag Milk Foods (NSE:PARAGMILK) Has Caught The Eye Of Investors - simplywall.st
+2026-09-15,COMSYN,S2+S4,NEWS,4,289.8,281.35,298.25,306.7,2.96,58.3,0.57,Trading Window
+2026-09-15,ZENSARTECH,S3,EXP,4,440.2,421.0,459.4,478.6,2.93,37.9,14.99,"FirstCry, Zensar Tech, Tata Investment Corp shares surge amid spike in volumes; check full list - Upstox"
+2026-09-15,KPITTECH,S3,ERN,4,563.0,545.6,580.4,597.8,2.9,40.3,2.65,"KPIT Technologies shares crack 17%, hit 52-week low as company flags weaker Q1 FY27: All you need to know - Upstox"
+2026-09-15,ENGINERSIN,S4,NEWS,4,262.45,252.91,271.99,281.53,2.85,53.6,0.41,ENGINERSIN Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,IPCALAB,S2+S4,NEWS,4,1932.4,1907.9,1956.9,1981.4,2.82,55.1,0.96,IPCALAB Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,DATAMATICS,S3,,4,766.25,732.05,800.45,834.65,2.67,41.0,10.69,"Datamatics Glob Share Price Today, Datamatics Glob Stock Price Live NSE/BSE Updates - The Economic Times"
+2026-09-15,MOREPENLAB,S4,ERN,4,106.22,100.1,112.34,118.46,2.67,57.6,0.81,Morepen Laboratories' (NSE:MOREPENLAB) Shareholders Have More To Worry About Than Only Soft Earnings - simplywall.st
+2026-09-15,IXIGO,S3,EXP,4,161.02,155.76,166.28,171.54,2.62,39.7,2.27,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-09-15,TEXINFRA,S4,NEWS,4,114.07,111.0,117.14,120.21,2.36,52.8,1.07,Shareholders meeting
+2026-09-15,CONCORDBIO,S4,NEWS,4,1473.0,1411.6,1534.4,1595.8,2.31,52.1,0.54,CONCORDBIO Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,WELSPUNLIV,S2+S4,NEWS,4,201.63,195.11,208.15,214.67,2.2,61.7,0.65,WELSPUNLIV Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,VARROC,S2+S4,NEWS,4,836.0,808.05,863.95,891.9,2.15,54.5,0.72,Trading Window
+2026-09-15,ARTEMISMED,S4,NEWS,4,330.55,315.5,345.6,360.65,2.09,53.9,0.88,Copy of Newspaper Publication
+2026-09-15,AXISCADES,S4,NEWS,4,1717.7,1609.1,1826.3,1934.9,2.04,53.1,1.0,AXISCADES Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,RATNAVEER,S4,NEWS,4,289.6,277.15,302.05,314.5,2.03,60.5,0.94,Copy of Newspaper Publication
+2026-09-15,ANANDRATHI,S2+S4,NEWS,4,2183.9,2155.0,2212.8,2241.7,2.01,53.3,0.66,General Updates
+2026-09-15,LUMAXTECH,S4,NEWS,4,1991.3,1893.7,2088.9,2186.5,1.61,57.6,1.52,"Lumax Auto Tech Stock Prediction 2026: Analyst Targets, Forecast and Key Levels - Univest"
+2026-09-15,KSL,S4,NEWS,4,930.45,891.4,969.5,1008.55,1.59,54.7,1.13,Kalyani Steels Share Price Target 2026: Rs 965 Analyst Forecast - Univest
+2026-09-15,SMSPHARMA,S4,NEWS,4,410.15,362.1,458.2,506.25,1.5,57.3,3.8,"Fraudsters Used Fake Documents to Sell SMS Pharma Shares Worth Rs 3.31 Crore, Probe On - Medical Dialogues"
+2026-09-15,SHOPERSTOP,S3,ERN,4,398.5,368.25,428.75,459.0,1.44,54.3,16.86,Shoppers Stop stock jumps 12% despite Q4 loss of ₹17 cr; revenue up 14% - Business Standard
+2026-09-15,WABAG,S4,EXP,4,2103.4,1948.9,2257.9,2412.4,1.4,53.7,1.02,Rekha Jhunjhunwala-backed VA Tech Wabag rises 4% on order win; up 58% YTD - Business Standard
+2026-09-15,WELENT,S4,ERN,4,737.6,674.7,800.5,863.4,1.39,58.0,4.2,Little Excitement Around Welspun Enterprises Limited's (NSE:WELENT) Earnings - simplywall.st
+2026-09-15,SYRMA,S4,ERN,4,1507.7,1392.6,1622.8,1737.9,1.32,52.6,1.17,There May Be Underlying Issues With The Quality Of Syrma SGS Technology's (NSE:SYRMA) Earnings - simplywall.st
+2026-09-15,IKS,S4,EXP,4,1783.0,1712.1,1853.9,1924.8,1.31,51.0,1.3,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-09-15,ORCHPHARMA,S4,NEWS,4,988.2,931.1,1045.3,1102.4,1.29,50.0,1.59,ORCHPHARMA Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,RPGLIFE,S3+S4,ERN,4,2718.8,2509.1,2928.5,3138.2,1.16,52.7,3.59,Why RPG Life Sciences' (NSE:RPGLIFE) Shaky Earnings Are Just The Beginning Of Its Problems - simplywall.st
+2026-09-15,IGARASHI,S3,ERN,4,437.05,402.05,472.05,507.05,1.14,53.9,18.67,Igarashi Motors Q2 FY27: Date and Outlook - Univest
+2026-09-15,TALBROAUTO,S4,EXP,4,421.3,401.5,441.1,460.9,1.12,53.9,1.98,Here's Why Talbros Automotive Components (NSE:TALBROAUTO) Has Caught The Eye Of Investors - simplywall.st
+2026-09-15,INNOVACAP,S4,EXP,4,1140.1,1052.1,1228.1,1316.1,1.09,61.2,2.2,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-09-15,APLLTD,S4,NEWS,4,824.75,792.6,856.9,889.05,1.07,52.7,1.45,APLLTD Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,AVL,S4,NEWS,4,611.2,589.95,632.45,653.7,1.02,51.4,1.67,Aditya Vision (AVL.NS) Surges 3.85% as Bulls Target ₹585 Resistance - EMA Signal - vinanet.vn
+2026-09-15,UNIMECH,S4,NEWS,4,1538.5,1421.2,1655.8,1773.1,0.97,56.7,1.2,Credit Rating
+2026-09-15,NRBBEARING,S4,NEWS,4,480.85,441.2,520.5,560.15,0.96,53.4,1.21,NRBBEARING Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,GRANULES,S4,NEWS,4,872.6,816.0,929.2,985.8,0.9,53.6,1.59,Updates
+2026-09-15,NEOGEN,S4,NEWS,4,2310.3,2113.1,2507.5,2704.7,0.88,59.2,1.14,NEOGEN Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,SHREEPUSHK,S3,ERN,4,501.45,450.0,552.9,604.35,0.85,66.9,2.1,"Shree Pushkar Chemicals and Fertilisers Q4 Results 2026: Date, Revenue, PAT and Analyst Outlook - Univest"
+2026-09-15,SHREEJISPG,S4,NEWS,4,684.0,632.65,735.35,786.7,0.73,57.9,2.66,Agreements
+2026-09-15,PNGJL,S4,ERN,4,611.6,563.1,660.1,708.6,0.48,50.7,1.23,Analysts Are Updating Their P N Gadgil Jewellers Limited (NSE:PNGJL) Estimates After Its First-Quarter Results - simplywall.st
+2026-09-15,HATSUN,S1+S3,ERN,4,1275.0,1116.3,1433.7,1592.4,0.47,75.8,5.55,Shareholders Can Be Confident That Hatsun Agro Product's (NSE:HATSUN) Earnings Are High Quality - simplywall.st
+2026-09-15,JINDALPHOT,S3,NEWS,4,1099.6,980.4,1218.8,1338.0,0.46,64.2,13.31,"Jindal Photo Share Price Target 2026: Rs 1,350 Analyst Forecast - Univest"
+2026-09-15,SHANKARA,S3,NEWS,4,149.83,145.0,154.66,159.49,0.45,75.1,4.24,Shankara Building Products Share Price Target 2026: Rs 135 Analyst Forecast - Univest
+2026-09-15,ACMESOLAR,S3,EXP,4,420.4,389.6,451.2,482.0,0.33,63.4,2.13,Acquisition
+2026-09-15,TATAINVEST,S3,EXP,4,718.35,616.1,820.6,922.85,0.31,73.0,13.7,Tata Investment Corporation Limited (NSE:TATAINVEST) is largely controlled by institutional shareholders who own 71% of the company - simplywall.st
+2026-09-15,NRAIL,S3,ERN,4,638.85,487.0,790.7,942.55,0.3,69.5,3.56,NRAIL.NS Mar 2026 Earnings: ₹8.34 EPS on Strong Revenue of ₹605 Crore - Earnings Risk Report - vinanet.vn
+2026-09-15,ABDL,S4,NEWS,4,631.6,586.55,676.65,721.7,0.28,57.4,1.66,Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals
+2026-09-15,OPTIEMUS,S3+S4,ERN,4,604.95,540.0,669.9,734.85,0.26,60.4,5.72,Solid Earnings May Not Tell The Whole Story For Optiemus Infracom (NSE:OPTIEMUS) - simplywall.st
+2026-09-15,ROSSTECH,S1+S3,ERN,4,1265.4,1096.0,1434.8,1604.2,0.25,74.3,4.09,Investors Shouldn't Be Too Comfortable With Rossell Techsys' (NSE:ROSSTECH) Earnings - simplywall.st
+2026-09-15,FSL,S3,NEWS,4,283.35,246.65,320.05,356.75,0.24,59.5,13.56,FSL Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,AEGISVOPAK,S3,EXP,4,302.0,260.7,343.3,384.6,0.22,65.4,3.94,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-09-15,GMMPFAUDLR,S3,NEWS,4,1348.0,1011.05,1684.95,2021.9,0.11,86.5,3.25,Resignation of Director/KMP/SMP
+2026-09-15,EMUDHRA,S1+S3,NEWS,4,592.85,489.0,696.7,800.55,0.0,67.9,6.84,Press Release
+2026-09-15,JINDALPOLY,S1+S3,NEWS,4,737.9,620.1,855.7,973.5,0.0,69.8,8.52,Spurt in Volume
+2026-09-15,APLAPOLLO,S2,NEWS,3,2119.3,2107.7,2130.9,2142.5,13.94,49.5,0.67,Shareholders meeting
+2026-09-15,INDGN,S2,NEWS,3,571.5,568.3,574.7,577.9,13.75,48.8,0.46,Should You Buy Indegene Limited (NSE:INDGN) For Its Upcoming Dividend? - simplywall.st
+2026-09-15,SHYAMMETL,S2,,3,1050.5,1045.1,1055.9,1061.3,11.2,51.0,0.5,Does Shyam Metalics and Energy (NSE:SHYAMMETL) Deserve A Spot On Your Watchlist? - simplywall.st
+2026-09-15,NAZARA,S2,ERN,3,357.4,354.9,359.9,362.4,9.04,50.5,0.56,Some May Be Optimistic About Nazara Technologies' (NSE:NAZARA) Earnings - simplywall.st
+2026-09-15,KPIL,S2,EXP,3,1380.2,1371.8,1388.6,1397.0,8.63,48.7,0.68,"Kalpataru Projects international bags ₹2,002 cr orders - BusinessLine"
+2026-09-15,METROPOLIS,S2,NEWS,3,572.5,568.0,577.0,581.5,7.78,48.2,0.42,METROPOLIS Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,KAJARIACER,S2,NEWS,3,1213.6,1205.3,1221.9,1230.2,7.34,46.7,0.55,Shareholders meeting
+2026-09-15,BLSE,S2,NEWS,3,310.1,307.05,313.15,316.2,6.95,47.1,0.8,Shareholders meeting
+2026-09-15,GLENMARK,S2,NEWS,3,2371.7,2346.6,2396.8,2421.9,6.61,47.7,0.54,GLENMARK Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,NILKAMAL,S2+S4,NEWS,3,2017.9,1989.0,2046.8,2075.7,4.55,54.2,0.18,NILKAMAL Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,BOSCHLTD,S2,NEWS,3,47070.0,46410.0,47730.0,48390.0,4.44,50.0,0.79,Bosch India Share Price Target 2026 Forecast - Univest
+2026-09-15,SUPERHOUSE,S4,EXP,3,169.83,165.15,174.51,179.19,4.1,51.5,0.38,Income Investors Should Know That Superhouse Limited (NSE:SUPERHOUSE) Goes Ex-Dividend Soon - simplywall.st
+2026-09-15,ALBERTDAVD,S4,NEWS,3,851.9,832.0,871.8,891.7,4.02,57.0,0.63,Albert David Share Price Target 2026: Rs 850 Analyst Forecast - Univest
+2026-09-15,TBOTEK,S2,NEWS,3,1656.1,1632.2,1680.0,1703.9,3.93,48.7,0.51,TBOTEK Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,SOMANYCERA,S2+S4,NEWS,3,550.8,544.0,557.6,564.4,3.82,53.8,0.45,Is It Smart To Buy Somany Ceramics Limited (NSE:SOMANYCERA) Before It Goes Ex-Dividend? - simplywall.st
+2026-09-15,SECMARK,S4,,3,142.98,133.06,152.9,162.82,3.68,54.5,0.07,"Volume Gainers Today; SecMark, Exxaro Tiles And Mastek Lead Trading Surge asof 4:00 PM IST - HDFC Sky"
+2026-09-15,RBZJEWEL,S4,ERN,3,165.7,155.0,176.4,187.1,3.64,52.1,0.04,RBZJEWEL Mar 2026 Earnings: Profitability Emerges with EPS of ₹2.92 Despite Absence of Street Estimates - vinanet.vn
+2026-09-15,PNBHOUSING,S2,EXP,3,1145.0,1125.4,1164.6,1184.2,3.39,48.9,0.4,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-09-15,KAPSTON,S2+S4,EXP,3,563.45,550.2,576.7,589.95,2.6,55.7,0.55,Investors Appear Satisfied With Kapston Services Limited's (NSE:KAPSTON) Prospects As Shares Rocket 38% - simplywall.st
+2026-09-15,AUSOMENT,S4,ERN,3,151.73,146.0,157.46,163.19,2.59,56.9,0.63,We Ran A Stock Scan For Earnings Growth And AuSom Enterprise (NSE:AUSOMENT) Passed With Ease - simplywall.st
+2026-09-15,PODDARMENT,S4,NEWS,3,270.1,245.1,295.1,320.1,2.53,52.3,0.92,"Poddar Pigments Share Price Target 2026: Bull Case Rs 315, Bear Case - Univest"
+2026-09-15,FINEORG,S2,EXP,3,5153.5,5056.5,5250.5,5347.5,2.41,51.0,0.65,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-09-15,NYKAA,S2,EXP,3,336.2,329.75,342.65,349.1,2.07,51.2,0.56,Here's Why FSN E-Commerce Ventures (NSE:NYKAA) Has Caught The Eye Of Investors - simplywall.st
+2026-09-15,FLUOROCHEM,S2,ERN,3,4601.3,4461.1,4741.5,4881.7,2.04,48.6,0.85,"Gujarat Fluorochemicals Limited (NSE:FLUOROCHEM) Released Earnings Last Week And Analysts Lifted Their Price Target To ₹4,624 - simplywall.st"
+2026-09-15,DCBBANK,S2,ERN,3,221.89,215.2,228.58,235.27,1.93,61.7,0.24,"DCB Bank soars 10% on huge volume, nears 52-week high post Q1 results - Business Standard"
+2026-09-15,CHENNPETRO,S4,NEWS,3,1471.8,1364.2,1579.4,1687.0,1.91,55.1,0.95,Credit Rating- Revision
+2026-09-15,SAILIFE,S4,ERN,3,1541.5,1460.1,1622.9,1704.3,1.91,55.0,0.51,Do Sai Life Sciences' (NSE:SAILIFE) Earnings Warrant Your Attention? - simplywall.st
+2026-09-15,AJAXENGG,S4,NEWS,3,581.6,565.0,598.2,614.8,1.89,51.5,1.05,Ajax Engineering Share Price Target 2026: Rs 715 Analyst Forecast - Univest
+2026-09-15,HINDOILEXP,S4,,3,175.72,162.0,189.44,203.16,1.87,53.3,0.3,HINDOILEXP Share Price Today - Hindustan Oil Exploration on NSE/BSE - scanx.trade
+2026-09-15,CARTRADE,S4,NEWS,3,3017.1,2888.7,3145.5,3273.9,1.85,53.7,0.86,Press Release
+2026-09-15,JKPAPER,S4,ERN,3,402.1,387.0,417.2,432.3,1.83,52.2,0.45,JK Paper's (NSE:JKPAPER) 23% CAGR outpaced the company's earnings growth over the same five-year period - simplywall.st
+2026-09-15,SAMBHV,S4,EXP,3,128.96,125.12,132.8,136.64,1.81,53.6,0.94,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-09-15,SHILPAMED,S2+S4,NEWS,3,911.9,874.0,949.8,987.7,1.8,57.7,0.59,SHILPAMED Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,SONATSOFTW,S3,NEWS,3,281.3,257.8,304.8,328.3,1.75,44.5,5.08,Copy of Newspaper Publication
+2026-09-15,GUJTHEM,S4,ERN,3,430.45,407.1,453.8,477.15,1.7,59.5,0.86,Gujarat Themis Biosyn's (NSE:GUJTHEM) Anemic Earnings Might Be Worse Than You Think - simplywall.st
+2026-09-15,PITTIENG,S2+S4,NEWS,3,1109.3,1055.0,1163.6,1217.9,1.67,54.8,0.67,PITTIENG Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,MACPOWER,S4,EXP,3,1882.3,1780.1,1984.5,2086.7,1.64,56.4,0.96,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-09-15,KKCL,S3,ERN,3,498.6,480.75,516.45,534.3,1.6,45.6,3.14,Kewal Kiran Clothing's (NSE:KKCL) five-year earnings growth trails the 26% YoY shareholder returns - simplywall.st
+2026-09-15,MPHASIS,S3,NEWS,3,2378.0,2273.3,2482.7,2587.4,1.6,47.5,2.63,Press Release
+2026-09-15,GLAND,S2+S4,NEWS,3,2895.5,2803.0,2988.0,3080.5,1.58,55.3,0.85,General Updates
+2026-09-15,FOSECOIND,S2,NEWS,3,6223.5,5996.71,6450.29,6677.09,1.57,62.9,0.67,Should You Buy Foseco India Limited (NSE:FOSECOIND) For Its Upcoming Dividend? - simplywall.st
+2026-09-15,VISHNU,S2+S4,EXP,3,682.8,645.05,720.55,758.3,1.57,56.7,0.59,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-09-15,PTCIL,S2,NEWS,3,22560.0,21550.0,23570.0,24580.0,1.55,58.1,0.58,Copy of Newspaper Publication
+2026-09-15,HALEOSLABS,S3,NEWS,3,1488.9,1437.0,1540.8,1592.7,1.53,51.8,2.23,Haleos Labs Drops 3.16% to ₹1437.5; Support at ₹1365.62 in Focus (HALEOSLABS.NS) - Analyst Downgrade Signals - siam.in
+2026-09-15,REDTAPE,S3,NEWS,3,120.87,113.1,128.64,136.41,1.53,47.1,16.96,Spurt in Volume
+2026-09-15,ACUTAAS,S4,ERN,3,3266.2,3120.0,3412.4,3558.6,1.52,50.2,0.87,We Ran A Stock Scan For Earnings Growth And Acutaas Chemicals (NSE:ACUTAAS) Passed With Ease - simplywall.st
+2026-09-15,AUROPHARMA,S2+S4,NEWS,3,1660.0,1622.6,1697.4,1734.8,1.52,53.1,0.55,General Updates
+2026-09-15,ASAHIINDIA,S4,NEWS,3,958.8,934.1,983.5,1008.2,1.47,55.4,0.96,ASAHIINDIA Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,ORIENTBELL,S4,NEWS,3,390.45,366.1,414.8,439.15,1.42,56.3,1.09,"Orient Bell Share Price Target 2026: Bull Case Rs 370, Bear Case - Univest"
+2026-09-15,GODREJAGRO,S4,NEWS,3,645.3,608.0,682.6,719.9,1.35,57.0,0.2,GODREJAGRO Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,MAYURUNIQ,S3,NEWS,3,745.2,702.0,788.4,831.6,1.31,47.3,2.73,MAYURUNIQ Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,DABUR,S3,EXP,3,384.9,368.05,401.75,418.6,1.3,42.8,4.62,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-09-15,ENTERO,S2,NEWS,3,1802.1,1709.04,1895.16,1988.21,1.27,67.5,0.35,ENTERO Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,RATNAMANI,S4,NEWS,3,2691.4,2533.4,2849.4,3007.4,1.26,55.9,0.34,RATNAMANI Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,DEEPINDS,S4,EXP,3,730.4,655.0,805.8,881.2,1.25,56.1,0.92,Why Investors Shouldn't Be Surprised By Deep Industries Limited's (NSE:DEEPINDS) P/S - simplywall.st
+2026-09-15,EIMCOELECO,S2,ERN,3,2242.2,2152.2,2332.2,2422.2,1.18,60.4,0.55,Eimco Elecon (India) Limited Publishes Q3 FY26 Financial Results - scanx.trade
+2026-09-15,SEAMECLTD,S2+S4,ERN,3,1736.9,1642.1,1831.7,1926.5,1.18,62.0,0.66,Seamec's (NSE:SEAMECLTD) Earnings Are Of Questionable Quality - simplywall.st
+2026-09-15,LALPATHLAB,S2+S4,ERN,3,1906.4,1855.7,1957.1,2007.8,1.12,52.8,0.93,Dr. Lal PathLabs Limited Just Missed Earnings - But Analysts Have Updated Their Models - simplywall.st
+2026-09-15,ACE,S2+S4,NEWS,3,1132.1,1073.8,1190.4,1248.7,1.1,53.9,0.88,General Updates
+2026-09-15,ZYDUSWELL,S4,NEWS,3,549.95,521.55,578.35,606.75,1.09,55.0,0.42,Should You Buy Zydus Wellness Limited (NSE:ZYDUSWELL) For Its Upcoming Dividend? - simplywall.st
+2026-09-15,AARTIDRUGS,S4,EXP,3,426.35,409.95,442.75,459.15,1.08,53.5,0.93,Investors Don't See Light At End Of Aarti Drugs Limited's (NSE:AARTIDRUGS) Tunnel And Push Stock Down 25% - simplywall.st
+2026-09-15,RELIGARE,S4,NEWS,3,247.55,234.0,261.1,274.65,1.04,51.2,0.43,Updates
+2026-09-15,AKUMS,S2+S4,NEWS,3,765.65,733.15,798.15,830.65,0.95,56.5,0.94,AKUMS Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,SSWL,S4,NEWS,3,339.0,291.25,386.75,434.5,0.95,54.8,0.74,Is It Smart To Buy Steel Strips Wheels Limited (NSE:SSWL) Before It Goes Ex-Dividend? - simplywall.st
+2026-09-15,WOCKPHARMA,S4,ERN,3,2064.1,1833.3,2294.9,2525.7,0.9,53.8,0.78,Wockhardt's (NSE:WOCKPHARMA) Strong Earnings Are Of Good Quality - simplywall.st
+2026-09-15,NITINSPIN,S2,,3,643.15,617.9,668.4,693.65,0.89,61.7,0.52,"Nitin Spinners Limited (NSE:NITINSPIN) Looks Like A Good Stock, And It's Going Ex-Dividend Soon - simplywall.st"
+2026-09-15,XPROINDIA,S4,ERN,3,1268.2,1110.0,1426.4,1584.6,0.89,52.7,0.32,Xpro India's (NSE:XPROINDIA) Anemic Earnings Might Be Worse Than You Think - simplywall.st
+2026-09-15,CHEVIOT,S4,NEWS,3,1172.3,1101.0,1243.6,1314.9,0.88,52.0,1.08,Cheviot Company Share Price Target 2027 to 2030: Analyst Outlook - Univest
+2026-09-15,INDSWFTLAB,S2,NEWS,3,378.75,350.0,407.5,436.25,0.88,65.9,0.27,Ind-Swift Laboratories Share Price Target 2026: Rs 190 Analyst Forecast - Univest
+2026-09-15,AEGISLOG,S4,EXP,3,1323.5,1180.0,1467.0,1610.5,0.87,52.6,0.77,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-09-15,MANORAMA,S2,NEWS,3,1987.1,1795.1,2179.1,2371.1,0.85,58.4,0.21,MANORAMA Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,UEL,S4,ERN,3,215.54,184.74,246.34,277.14,0.85,55.2,2.45,"Optimism for Ujaas Energy (NSE:UEL) has grown this past week, despite one-year decline in earnings - simplywall.st"
+2026-09-15,PAYTM,S2,NEWS,3,1730.0,1594.2,1865.8,2001.6,0.81,60.7,0.76,Shareholders meeting
+2026-09-15,KIRLOSIND,S4,NEWS,3,3834.0,3550.8,4117.2,4400.4,0.78,56.7,1.0,Updates
+2026-09-15,WINDLAS,S2,NEWS,3,1098.15,986.1,1210.2,1322.25,0.75,64.3,0.4,Windlas Biotech Share Price Target 2027 to 2030: Analyst Outlook - Univest
+2026-09-15,BHAGYANGR,S2+S4,ERN,3,405.0,368.15,441.85,478.7,0.74,54.8,0.93,Bhagyanagar India Hits ₹136 on Q2 Profit Surge - HDFC Sky
+2026-09-15,RELCHEMQ,S3,,3,120.7,108.6,132.8,144.9,0.73,55.6,12.82,Reliance Chemotex Industries Limited (NSE:RELCHEMQ) Goes Ex-Dividend Soon - simplywall.st
+2026-09-15,VENKEYS,S2,NEWS,3,1713.6,1575.4,1851.8,1990.0,0.73,61.1,0.86,"Venkys India Share Price Target 2026: Expert Forecast, Growth Catalysts and Key Risks - Univest"
+2026-09-15,ANTHEM,S2,EXP,3,942.85,893.2,992.5,1042.15,0.7,63.5,0.72,Anthem Biosciences share price: Stock makes robust debut at 27% premium; here's how much investors made per lot - Upstox
+2026-09-15,REDINGTON,S2,NEWS,3,378.95,343.7,414.2,449.45,0.69,61.1,0.63,iPhone Duo Launch Boosts Redington Shares: Stock Rises 5.33% as Apple Raises iPhone Prices in India - India Infoline
+2026-09-15,KALYANKJIL,S2+S4,NEWS,3,604.2,556.5,651.9,699.6,0.67,53.6,0.98,KALYANKJIL Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,PVRINOX,S2+S4,NEWS,3,1221.0,1125.7,1316.3,1411.6,0.67,53.9,0.39,PVR Inox (NSE:PVRINOX) Announces Buyback Plan With Fixed Record Date - Kalkine India
+2026-09-15,MAHSEAMLES,S2,NEWS,3,701.1,644.0,758.2,815.3,0.66,64.5,0.74,Shareholders meeting
+2026-09-15,RGL,S2,NEWS,3,151.77,134.1,169.44,187.11,0.66,61.8,0.34,General Updates
+2026-09-15,EMIL,S2,ERN,3,185.06,167.54,202.58,220.1,0.65,58.6,0.69,Earnings Update: Here's Why Analysts Just Lifted Their Electronics Mart India Limited (NSE:EMIL) Price Target To ₹186 - simplywall.st
+2026-09-15,GPTHEALTH,S4,NEWS,3,159.45,150.0,168.9,178.35,0.63,55.9,1.35,GPT Healthcare Share Price Target 2026: Rs 175 Analyst Forecast - Univest
+2026-09-15,SUPRIYA,S4,NEWS,3,874.95,783.1,966.8,1058.65,0.63,55.2,0.67,Should You Buy Supriya Lifescience Limited (NSE:SUPRIYA) For Its Upcoming Dividend? - simplywall.st
+2026-09-15,ZIMLAB,S4,NEWS,3,133.61,116.25,150.97,168.33,0.63,59.3,1.07,General Updates
+2026-09-15,SOLARA,S2,ERN,3,715.8,619.0,812.6,909.4,0.6,68.3,0.73,Solara Active Pharma shares jump 5% as Q1 profit rises 55%; Ibuprofen business remains a drag - CNBC TV18
+2026-09-15,KROSS,S2,NEWS,3,228.87,204.39,253.35,277.83,0.59,62.5,0.97,"Kross Share Price Target 2027, 2028 & 2030: Long-Term Analyst Forecast - Univest"
+2026-09-15,RBLBANK,S2+S4,NEWS,3,403.6,375.0,432.2,460.8,0.59,57.8,0.37,ESOP/ESOS/ESPS
+2026-09-15,FIVESTAR,S4,EXP,3,541.95,512.5,571.4,600.85,0.54,53.8,0.85,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-09-15,STAR,S2,NEWS,3,1150.6,1009.4,1291.8,1433.0,0.51,63.4,0.67,STAR Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,SHAREINDIA,S2,EXP,3,197.2,167.2,227.2,257.2,0.5,72.5,0.76,Acquisition
+2026-09-15,LAURUSLABS,S2+S4,EXP,3,1926.9,1811.7,2042.1,2157.3,0.48,60.2,0.43,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-09-15,RHL,S3,NEWS,3,175.23,164.2,186.26,197.29,0.41,59.3,5.56,Change in Management
+2026-09-15,CUPID,S2+S4,NEWS,3,284.4,265.45,303.35,322.3,0.4,60.2,0.64,General Updates
+2026-09-15,SMLMAH,S2,EXP,3,6254.0,5169.0,7339.0,8424.0,0.37,62.3,0.41,Here's Why SML Mahindra (NSE:SMLMAH) Has Caught The Eye Of Investors - simplywall.st
+2026-09-15,MANBA,S4,NEWS,3,133.87,128.0,139.74,145.61,0.36,58.3,1.38,Manba Finance Share Price Target 2026: Rs 155 Analyst Forecast - Univest
+2026-09-15,FDC,S3,NEWS,3,349.7,328.8,370.6,391.5,0.34,45.8,3.21,"Fdc Ltd Share Price Target, Forecast for Long Term Equity. - HDFC Sky"
+2026-09-15,GRPLTD,S3+S4,NEWS,3,2046.2,1885.5,2206.9,2367.6,0.33,55.4,8.93,"GRP Share Price Target 2026: Rs 2,050 Analyst Forecast - Univest"
+2026-09-15,SETL,S2,EXP,3,444.75,369.05,520.45,596.15,0.31,72.2,0.14,Here's Why Standard Engineering Technology (NSE:SETL) Has Caught The Eye Of Investors - simplywall.st
+2026-09-15,GOODLUCK,S2,NEWS,3,519.15,448.0,590.3,661.45,0.28,63.1,0.92,Bonus issue alert! Last day to buy Goodluck India shares for 2:1 bonus reward. How will dividend payout be - The Economic Times
+2026-09-15,SAKAR,S2,EXP,3,1137.55,856.3,1418.8,1700.05,0.26,69.3,0.64,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-09-15,GOCLCORP,S2,NEWS,3,435.65,382.55,488.75,541.85,0.23,62.1,0.54,Trading Window
+2026-09-15,CEIGALL,S2,ERN,3,382.25,337.55,426.95,471.65,0.16,76.7,0.4,Ceigall India (NSE:CEIGALL) Ticks All The Boxes When It Comes To Earnings Growth - simplywall.st
+2026-09-15,MAXESTATES,S2,ERN,3,568.9,485.1,652.7,736.5,0.12,71.2,0.77,We Think You Can Look Beyond Max Estates' (NSE:MAXESTATES) Lackluster Earnings - simplywall.st
+2026-09-15,CPCAP,S3,NEWS,3,140.17,112.71,167.63,195.09,0.07,67.6,2.8,CP Capital Credits CP Edutech Shares; Trading Awaits Exchange Approval - HDFC Sky
+2026-09-15,SOFTTECH,S1+S3,NEWS,3,474.95,412.45,537.45,599.95,0.0,74.5,2.49,Softtech Engineers Share Price Target 2027 to 2030: Analyst Outlo - Univest
+2026-09-15,SURAKSHA,S2,NEWS,2,323.05,317.7,328.4,333.75,4.85,54.6,0.6,Suraksha Diagnostic Share Price Target 2027 to 2030: Analyst Outl - Univest
+2026-09-15,TASTYBITE,S2,NEWS,2,9927.0,9734.0,10120.0,10313.0,3.2,52.2,0.6,"Tasty Bite Eatables Share Price Target 2026: Rs 10,000 Analyst Forecast - Univest"
+2026-09-15,DVL,S4,NEWS,2,282.7,271.21,294.19,305.68,1.85,54.8,0.59,"Dhunseri Ventures Share Price Target 2026: Bull Case Rs 320, Bear - Univest"
+2026-09-15,MEGASTAR,S3,ERN,2,285.5,266.9,304.1,322.7,1.8,35.2,3.63,"Megastar Foods Ltd. Key Financial Ratios – Valuation, Profitability & More - valueresearchonline.com"
+2026-09-15,LGBBROSLTD,S4,ERN,2,1703.2,1672.3,1734.1,1765.0,1.51,61.4,0.76,Improved Earnings Required Before L.G. Balakrishnan & Bros Limited (NSE:LGBBROSLTD) Stock's 29% Jump Looks Justified - simplywall.st
+2026-09-15,MANAKCOAT,S4,ERN,2,124.19,118.0,130.38,136.57,1.47,52.9,0.28,Manaksia Coated Metals & Industries' (NSE:MANAKCOAT) Earnings Are Of Questionable Quality - simplywall.st
+2026-09-15,ARIES,S4,ERN,2,473.3,442.0,504.6,535.9,1.42,58.8,0.19,Aries Agro Q2 Results FY27: Date and Expectations - Univest
+2026-09-15,MANOMAY,S4,ERN,2,228.71,219.89,237.53,246.35,1.28,58.8,0.72,Manomay Tex India Q1 FY27 Results Preview - Univest
+2026-09-15,TNPL,S4,ERN,2,152.39,140.06,164.72,177.05,1.01,55.0,0.76,"Tamil Nadu Newsprint and Papers Limited Schedules Board Meeting for Q3 FY26 Results on January 29, 2026 - scanx.trade"
+2026-09-15,DICIND,S2+S4,NEWS,2,593.15,547.3,639.0,684.85,1.0,54.7,0.61,DIC India Share Price Target 2026: Rs 615 Analyst Forecast - Univest
+2026-09-15,GUFICBIO,S2+S4,NEWS,2,425.1,395.05,455.15,485.2,0.96,53.3,0.47,Gufic Biosciences Share Price Target 2026: Rs 430 Analyst Forecast - Univest
+2026-09-15,KHAITANLTD,S4,,2,158.94,136.41,181.47,204.0,0.85,58.3,0.9,KHAITANLTD Share Price Today - Khaitan (India) Stock Analysis - Equitypandit
+2026-09-15,JASH,S4,NEWS,2,496.1,454.1,538.1,580.1,0.76,51.4,0.87,JASH Forecast — Price Target — Prediction for 2027 - tradingview.com
+2026-09-15,INDIQUBE,S4,EXP,2,199.43,185.11,213.75,228.07,0.73,60.8,0.37,Analysts/Institutional Investor Meet/Con. Call Updates
+2026-09-15,MANAKSTEEL,S2,NEWS,2,112.02,97.19,126.85,141.68,0.59,67.3,0.3,Here's What To Make Of Manaksia Steels' (NSE:MANAKSTEEL) Decelerating Rates Of Return - simplywall.st
+2026-09-15,WIPL,S4,ERN,2,168.72,161.55,175.89,183.06,0.58,52.9,0.22,WIPL Mar 2026 Earnings: Steady Performance with EPS of ₹0.34 on Revenue of ₹28.32 Crore - Earnings Risk Report - vinanet.vn
+2026-09-15,RANEHOLDIN,S4,ERN,2,1669.0,1538.1,1799.9,1930.8,0.54,51.4,0.8,Earnings Troubles May Signal Larger Issues for Rane Holdings (NSE:RANEHOLDIN) Shareholders - simplywall.st
+2026-09-15,NITIRAJ,S2,NEWS,2,225.91,197.05,254.77,283.63,0.52,62.6,0.93,Nitiraj Engineers Share Price Target 2026: Bull Case Rs 250 - Univest
+2026-09-15,VALIANTLAB,S2,ERN,2,122.63,91.53,153.73,184.83,0.23,73.6,0.4,"Valiant Laboratories Q4 FY26 Results: Earnings Date, Revenue and PAT Estimates - Univest"
+2026-09-15,SHIVAUM,S2,ERN,2,470.0,400.0,540.0,610.0,0.21,70.1,0.01,Basic earnings per share (basic EPS) of Shiv Aum Steels Ltd. – NSE:SHIVAUM - tradingview.com
+2026-09-15,GLOBAL,S2,EXP,2,126.23,104.41,148.05,169.87,0.15,70.8,0.48,Can the NSE topple Nasdaq’s hold in global m-cap stakes? - Fortune India
+2026-09-15,SCPL,S2,,1,636.05,608.3,663.8,691.55,1.94,50.2,0.2,Sheetal Cool Products (NSE:SCPL) Might Have The Makings Of A Multi-Bagger - simplywall.st
