@@ -1,2 +1,5 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-09-15,CRAFTSMAN,5,DROP,—,True,False,True,True,6,,11099.0,10925.0,11273.0,11447.0,failed: Fundamentals,Investors Shouldn't Be Too Comfortable With Craftsman Automation's (NSE:CRAFTSMAN) Earnings - simplywall.st,False
+2026-09-16,SUNDRMFAST,5,TRUST,Consumer Cyclical,True,True,True,True,8,,1219.9,1187.1,1252.7,1285.5,cleared all 5 gates,SUNDRMFAST Forecast — Price Target — Prediction for 2027 - TradingView,True
+2026-09-16,MANINDS,5,DROP,Basic Materials,True,True,False,False,4,,790.3,741.5,839.1,887.9,"failed: Risk, News",Downgrade: Here's How This Analyst Sees Man Industries (India) Limited (NSE:MANINDS) Performing In The Near Term - simplywall.st,False
+2026-09-16,CYIENTDLM,5,DROP,Industrials,True,False,True,True,6,,867.4,811.95,922.85,978.3,failed: Fundamentals,Cyient DLM's (NSE:CYIENTDLM) Profits Appear To Have Quality Issues - simplywall.st,False
+2026-09-16,RATNAVEER,5,DROP,Basic Materials,True,False,True,True,4,,286.75,275.2,298.3,309.85,failed: Fundamentals,Ratnaveer Precision Engineering shares jump 14% on strong Q1 results - Moneycontrol.com,False
