@@ -1,5 +1,2 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-09-17,NIACL,5,TRUST,Financial Services,True,True,True,True,,,197.05,179.15,214.95,232.85,cleared all 5 gates,"NSE IPO effect? This PSU stock hits 52-week high before paring gains | Check its NSE Stake, other key details - Livemint",True
-2026-09-17,PREMEXPLN,5,DROP,Basic Materials,True,False,True,True,6.0,,668.15,663.0,673.3,678.45,failed: Fundamentals,Impressive Earnings May Not Tell The Whole Story For Premier Explosives (NSE:PREMEXPLN) - simplywall.st,False
-2026-09-17,MAITHANALL,5,DROP,Basic Materials,False,False,True,True,5.0,,1027.45,974.45,1080.45,1133.45,"failed: Trend & RS, Fundamentals",Copy of Newspaper Publication,False
-2026-09-17,STYLEBAAZA,5,DROP,Consumer Cyclical,True,False,False,True,6.0,,388.05,362.05,414.05,440.05,"failed: Fundamentals, Risk",Here's Why We Think Baazar Style Retail (NSE:STYLEBAAZA) Is Well Worth Watching - simplywall.st,False
+2026-09-18,SHANTIGOLD,5,TRUST,Consumer Cyclical,True,True,True,True,6,,251.27,238.82,263.72,276.17,cleared all 5 gates,27% Up In One Month: Shanti Gold Share Price Falls Over 1% In Trade. Know Why - NDTV Profit,True
