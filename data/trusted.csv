@@ -1,2 +1,3 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-09-18,SHANTIGOLD,5,TRUST,Consumer Cyclical,True,True,True,True,6,,251.27,238.82,263.72,276.17,cleared all 5 gates,27% Up In One Month: Shanti Gold Share Price Falls Over 1% In Trade. Know Why - NDTV Profit,True
+2026-09-23,GLAXO,5,DROP,—,True,False,True,True,6,,2876.9,2755.9,2997.9,3118.9,failed: Fundamentals,Earnings Not Telling The Story For GlaxoSmithKline Pharmaceuticals Limited (NSE:GLAXO) - simplywall.st,False
+2026-09-23,BLUESTONE,5,DROP,—,True,False,True,True,5,,855.5,798.2,912.8,970.1,failed: Fundamentals,BlueStone Jewellery shares hit 20% upper circuit after firm swings to profit in Q1FY27 - Moneycontrol.com,False
