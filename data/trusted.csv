@@ -1,3 +1,4 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-09-23,GLAXO,5,DROP,—,True,False,True,True,6,,2876.9,2755.9,2997.9,3118.9,failed: Fundamentals,Earnings Not Telling The Story For GlaxoSmithKline Pharmaceuticals Limited (NSE:GLAXO) - simplywall.st,False
-2026-09-23,BLUESTONE,5,DROP,—,True,False,True,True,5,,855.5,798.2,912.8,970.1,failed: Fundamentals,BlueStone Jewellery shares hit 20% upper circuit after firm swings to profit in Q1FY27 - Moneycontrol.com,False
+2026-09-29,CHENNPETRO,5,TRUST,Energy,True,True,True,True,6,,1436.9,1360.8,1513.0,1589.1,cleared all 5 gates,CHENNPETRO Forecast — Price Target — Prediction for 2027 - TradingView,True
+2026-09-29,EMCURE,5,TRUST,Healthcare,True,True,True,True,4,,1959.1,1891.6,2026.6,2094.1,cleared all 5 gates,Trading Window,True
+2026-09-29,MRPL,5,DROP,Energy,False,True,True,True,8,,171.65,162.4,180.9,190.15,failed: Trend & RS,Credit Rating- New,False
