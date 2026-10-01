@@ -1,3 +1,3 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-09-30,SOTL,5,TRUST,Basic Materials,True,True,True,True,5,,718.8,681.55,756.05,793.3,cleared all 5 gates,Spurt in Volume,True
-2026-09-30,ELLEN,5,DROP,Basic Materials,False,True,True,True,7,,356.9,342.9,370.9,384.9,failed: Trend & RS,Press Release,False
+2026-10-02,SOTL,5,TRUST,Basic Materials,True,True,True,True,5,,718.8,681.55,756.05,793.3,cleared all 5 gates,Spurt in Volume,True
+2026-10-02,ELLEN,5,DROP,Basic Materials,False,True,True,True,7,,356.9,342.9,370.9,384.9,failed: Trend & RS,Industry Analysts Just Made A Captivating Upgrade To Their Ellenbarrie Industrial Gases Limited (NSE:ELLEN) Revenue Forecasts - Simply Wall Street,False
