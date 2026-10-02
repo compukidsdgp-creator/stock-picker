@@ -1,3 +1,6 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-10-02,SOTL,5,TRUST,Basic Materials,True,True,True,True,5,,718.8,681.55,756.05,793.3,cleared all 5 gates,Spurt in Volume,True
-2026-10-02,ELLEN,5,DROP,Basic Materials,False,True,True,True,7,,356.9,342.9,370.9,384.9,failed: Trend & RS,Industry Analysts Just Made A Captivating Upgrade To Their Ellenbarrie Industrial Gases Limited (NSE:ELLEN) Revenue Forecasts - Simply Wall Street,False
+2026-10-02,UFLEX,5,DROP,—,True,False,True,True,6,,649.85,636.8,662.9,675.95,failed: Fundamentals,Copy of Newspaper Publication,False
+2026-10-02,AETHER,5,DROP,—,True,False,True,True,5,,1670.0,1618.1,1721.9,1773.8,failed: Fundamentals,General Updates,False
+2026-10-02,APARINDS,5,DROP,—,True,False,True,True,5,,17648.0,16955.0,18341.0,19034.0,failed: Fundamentals,Analysts Are Upgrading APAR Industries Limited (NSE:APARINDS) After Its Latest Results - Simply Wall Street,False
+2026-10-02,BLSE,5,DROP,—,True,False,True,False,6,,322.05,313.55,330.55,339.05,"failed: Fundamentals, News",Resignation of Statutory Auditor,False
+2026-10-02,PHOENIXLTD,5,DROP,—,True,False,True,True,6,,1930.0,1877.9,1982.1,2034.2,failed: Fundamentals,Trading Window,False
