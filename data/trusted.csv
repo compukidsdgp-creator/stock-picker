@@ -1,6 +1,3 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-10-06,UFLEX,5,DROP,—,True,False,True,True,6,,649.85,636.8,662.9,675.95,failed: Fundamentals,UFlex Shares Surge 17% After 630% Profit Jump — But Can These Margins Last? - NiftyTrader,False
-2026-10-06,AETHER,5,DROP,—,True,False,True,True,5,,1670.0,1618.1,1721.9,1773.8,failed: Fundamentals,Aether Industries shares soar 8% to 52-week high as Q1 profit surges 33% YoY to ₹63 crore; EBITDA margin expands - Upstox,False
-2026-10-06,APARINDS,5,DROP,—,True,False,True,True,5,,17648.0,16955.0,18341.0,19034.0,failed: Fundamentals,Analysts Are Upgrading APAR Industries Limited (NSE:APARINDS) After Its Latest Results - Simply Wall Street,False
-2026-10-06,BLSE,5,DROP,—,True,False,True,True,6,,322.05,313.55,330.55,339.05,failed: Fundamentals,BLS E-Services Share Price Target 2026: Rs 275 Analyst Forecast - Univest,False
-2026-10-06,PHOENIXLTD,5,DROP,—,True,False,True,True,6,,1930.0,1877.9,1982.1,2034.2,failed: Fundamentals,The Phoenix Mills (NSE:PHOENIXLTD): Why Is It Meeting Institutional Investors on 8 October 2026? - Kalkine India,False
+2026-10-07,PHOENIXLTD,5,DROP,—,True,False,True,True,6,,1935.0,1899.9,1970.1,2005.2,failed: Fundamentals,Here's Why Phoenix Mills (NSE:PHOENIXLTD) Has Caught The Eye Of Investors - Simply Wall Street,False
+2026-10-07,TFCILTD,5,DROP,—,True,False,True,True,5,,139.65,135.49,143.81,147.97,failed: Fundamentals,Tourism Finance Corporation of India (NSE:TFCILTD) stock performs better than its underlying earnings growth over last five years - Simply Wall Street,False
