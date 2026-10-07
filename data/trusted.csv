@@ -1,3 +1,2 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-10-07,PHOENIXLTD,5,DROP,—,True,False,True,True,6,,1935.0,1899.9,1970.1,2005.2,failed: Fundamentals,Here's Why Phoenix Mills (NSE:PHOENIXLTD) Has Caught The Eye Of Investors - Simply Wall Street,False
-2026-10-07,TFCILTD,5,DROP,—,True,False,True,True,5,,139.65,135.49,143.81,147.97,failed: Fundamentals,Tourism Finance Corporation of India (NSE:TFCILTD) stock performs better than its underlying earnings growth over last five years - Simply Wall Street,False
+2026-10-08,ZYDUSLIFE,5,DROP,Healthcare,True,False,True,True,4,,1159.5,1123.7,1195.3,1231.1,failed: Fundamentals,ZYDUSLIFE Forecast — Price Target — Prediction for 2027 - TradingView,False
