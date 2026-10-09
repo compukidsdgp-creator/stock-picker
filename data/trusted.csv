@@ -1,2 +1,2 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-10-09,TI,5,DROP,Consumer Defensive,True,False,True,True,1,,551.55,535.0,568.1,584.65,failed: Fundamentals,Tilaknagar Industries Ltd. (NSE:TI) Just Released Its First-Quarter Results And Analysts Are Updating Their Estimates - Simply Wall Street,False
+2026-10-09,IIFLCAPS,5,DROP,Financial Services,True,True,True,True,2,,343.75,341.55,345.95,348.15,F-score 2<4,IIFL Capital Services Share Price Target 2026: Rs 410 Analyst Forecast - Univest,False
