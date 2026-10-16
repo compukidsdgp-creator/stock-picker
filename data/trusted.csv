@@ -1,2 +1,2 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-10-14,IIFLCAPS,5,DROP,Financial Services,True,True,True,True,2,,346.3,341.55,351.05,355.8,F-score 2<4,IIFL Capital Services Share Price Target 2026: Rs 410 Analyst Forecast - Univest,False
+2026-10-16,AURUM,5,DROP,Real Estate,True,True,False,True,7,,232.37,220.38,244.36,256.35,failed: Risk,AURUM Forecast — Price Target — Prediction for 2027 - TradingView,False
