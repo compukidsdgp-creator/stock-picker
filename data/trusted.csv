@@ -1,2 +1,3 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-10-20,GPTINFRA,5,DROP,—,True,False,False,True,4,,121.28,118.44,124.12,126.96,"failed: Fundamentals, Risk",GPT Infraprojects Share Price Target 2026: Rs 140 Analyst Forecast - Univest,False
+2026-10-21,DBOL,5,DROP,Consumer Defensive,True,False,False,True,8,,135.06,130.07,140.05,145.04,"failed: Fundamentals, Risk",Dhampur Bio Organics (NSEI:DBOL) - Stock Analysis - Simply Wall Street,False
+2026-10-21,TATVA,5,DROP,Basic Materials,True,False,True,True,6,,1890.1,1782.1,1998.1,2106.1,failed: Fundamentals,"Tatva Chintan Pharma Chem Limited (NSE:TATVA) Beat Earnings, And Analysts Have Been Reviewing Their Forecasts - Simply Wall Street",False
