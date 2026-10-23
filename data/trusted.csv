@@ -1,3 +1,2 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-10-22,CHENNPETRO,5,TRUST,Energy,True,True,True,True,6,,1453.7,1377.3,1530.1,1606.5,cleared all 5 gates,CHENNPETRO Forecast — Price Target — Prediction for 2027 - TradingView,True
-2026-10-22,THELEELA,5,DROP,Consumer Cyclical,True,False,True,True,8,,595.65,573.5,617.8,639.95,failed: Fundamentals,Leela Palaces (NSE:THELEELA) Q2 FY27 Earnings Call Key Highlights - Kalkine India,False
+2026-10-23,PREMEXPLN,5,DROP,Basic Materials,True,False,True,True,6,,687.4,685.1,689.7,692.0,failed: Fundamentals,Impressive Earnings May Not Tell The Whole Story For Premier Explosives (NSE:PREMEXPLN) - Simply Wall Street,False
