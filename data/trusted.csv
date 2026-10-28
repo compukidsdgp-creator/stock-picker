@@ -1,2 +1,2 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-10-27,SHIVAUM,5,DROP,Basic Materials,True,False,False,True,6,,540.1,528.65,551.55,563.0,"failed: Fundamentals, Risk",Shiv Aum Steels Share Price Target 2027 to 2030: Analyst Outlook - Univest,False
+2026-10-28,SHIVAUM,5,DROP,Basic Materials,True,False,False,True,6,,545.45,528.65,562.25,579.05,"failed: Fundamentals, Risk",Shiv Aum Steels (NSE:SHIVAUM): What Does the Reg 74(5) Certificate for Q2 FY27 Mean? - Kalkine India,False
