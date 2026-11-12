@@ -1,2 +1,2 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-11-07,SHIVAUM,5,DROP,Basic Materials,True,False,False,True,6,,540.05,528.95,551.15,562.25,"failed: Fundamentals, Risk",Shiv Aum Steels (NSE:SHIVAUM): What Does the Reg 74(5) Certificate for Q2 FY27 Mean? - Kalkine India,False
+2026-11-13,SUNFLAG,5,TRUST,Basic Materials,True,True,True,True,9,,400.05,376.5,423.6,447.15,cleared all 5 gates,Sunflag Iron and Steel (NSE:SUNFLAG) Could Be A Buy For Its Upcoming Dividend - Simply Wall St,True
