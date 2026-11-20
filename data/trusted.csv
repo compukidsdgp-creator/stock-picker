@@ -1,2 +1,2 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-11-20,TVSMOTOR,5,DROP,Consumer Cyclical,True,False,True,True,5,,4369.0,4298.4,4439.6,4510.2,failed: Fundamentals,TVS Motor shares gain 4% as June sales jump 47%; Q1 volumes hit record - Business Standard,False
+2026-11-21,LGEINDIA,5,DROP,Technology,True,True,True,True,3,,1716.2,1672.0,1760.4,1804.6,F-score 3<4,LGEINDIA Forecast — Price Target — Prediction for 2027 - TradingView,False
