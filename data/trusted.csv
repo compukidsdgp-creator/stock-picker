@@ -1,2 +1,5 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-11-21,LGEINDIA,5,DROP,Technology,True,True,True,True,3,,1716.2,1672.0,1760.4,1804.6,F-score 3<4,LGEINDIA Forecast — Price Target — Prediction for 2027 - TradingView,False
+2026-11-24,MANAKCOAT,5,TRUST,Industrials,True,True,True,True,5,,157.52,149.17,165.87,174.22,cleared all 5 gates,Manaksia Coated Metals QIP Trading Approval NSE BSE - Kalkine India,True
+2026-11-24,METROPOLIS,5,TRUST,Healthcare,True,True,True,True,7,,566.0,556.85,575.15,584.3,cleared all 5 gates,"Morgan Stanley, Aditya Birla Fund Life AMC, ICICI Prudential AMC buy Rs 118 crore Metropolis shares from... - Moneycontrol.com",True
+2026-11-24,NELCAST,5,DROP,Industrials,True,False,False,True,9,,146.3,137.96,154.64,162.98,"failed: Fundamentals, Risk",Nelcast (NSEI:NELCAST) - Stock Analysis - Simply Wall St,False
+2026-11-24,ETHOSLTD,5,DROP,Consumer Cyclical,False,False,True,True,4,,2714.2,2637.8,2790.6,2867.0,"failed: Trend & RS, Fundamentals",Why Ethos' (NSE:ETHOSLTD) Shaky Earnings Are Just The Beginning Of Its Problems - Simply Wall St,False
