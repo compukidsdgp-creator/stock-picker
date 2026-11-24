@@ -1,5 +1,7 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-11-24,MANAKCOAT,5,TRUST,Industrials,True,True,True,True,5,,157.52,149.17,165.87,174.22,cleared all 5 gates,Manaksia Coated Metals QIP Trading Approval NSE BSE - Kalkine India,True
-2026-11-24,METROPOLIS,5,TRUST,Healthcare,True,True,True,True,7,,566.0,556.85,575.15,584.3,cleared all 5 gates,"Morgan Stanley, Aditya Birla Fund Life AMC, ICICI Prudential AMC buy Rs 118 crore Metropolis shares from... - Moneycontrol.com",True
-2026-11-24,NELCAST,5,DROP,Industrials,True,False,False,True,9,,146.3,137.96,154.64,162.98,"failed: Fundamentals, Risk",Nelcast (NSEI:NELCAST) - Stock Analysis - Simply Wall St,False
-2026-11-24,ETHOSLTD,5,DROP,Consumer Cyclical,False,False,True,True,4,,2714.2,2637.8,2790.6,2867.0,"failed: Trend & RS, Fundamentals",Why Ethos' (NSE:ETHOSLTD) Shaky Earnings Are Just The Beginning Of Its Problems - Simply Wall St,False
+2026-11-25,SONACOMS,5,TRUST,Consumer Cyclical,True,True,True,True,5,,886.0,879.85,892.15,898.3,cleared all 5 gates,"Sona BLW Precision Forgings Shares: Volume, Earnings and Technical Readings - Kalkine India",True
+2026-11-25,METROPOLIS,5,TRUST,Healthcare,True,True,True,True,7,,562.8,556.85,568.75,574.7,cleared all 5 gates,"Morgan Stanley, Aditya Birla Fund Life AMC, ICICI Prudential AMC buy Rs 118 crore Metropolis shares from... - Moneycontrol.com",True
+2026-11-25,ADANIGREEN,5,DROP,Utilities,True,False,True,True,5,,1391.0,1380.0,1402.0,1413.0,failed: Fundamentals,"Adani Green Energy Stock: Trading, Earnings and Momentum - Kalkine India",False
+2026-11-25,WESTLIFE,5,DROP,Consumer Cyclical,True,False,True,True,6,,652.7,641.87,663.53,674.37,failed: Fundamentals,Positive earnings growth hasn't been enough to get Westlife Foodworld (NSE:WESTLIFE) shareholders a favorable return over the last year - Simply Wall St,False
+2026-11-25,GROWW,5,DROP,Financial Services,True,True,True,True,1,,216.46,213.68,219.24,222.02,F-score 1<4,Daily and Weekly Digest - Latest News and Updates on Digest at Groww - Groww,False
+2026-11-25,RUBICON,5,DROP,Healthcare,True,False,True,True,2,,1675.7,1640.0,1711.4,1747.1,failed: Fundamentals,"Rubicon Research jumps 15% to hit 52-week high on Q4 results, dividend news - Business Standard",False
