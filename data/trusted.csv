@@ -1,8 +1,4 @@
 date,ticker,score,verdict,sector,s1_trend,s2_fund,s3_risk,s4_news,fscore,delivery_pct,entry,stop,target_1r,target_2r,why,headline,diversified
-2026-11-27,KPRMILL,5,TRUST,Consumer Cyclical,True,True,True,True,7.0,,1173.0,1137.8,1208.2,1243.4,cleared all 5 gates,K P R Mill Share Price Target 2026 Analyst Forecast - Univest,True
-2026-11-27,WINDMACHIN,5,DROP,Industrials,True,False,False,True,3.0,,302.6,290.0,315.2,327.8,"failed: Fundamentals, Risk",Windsor Machines Board Approves Rs 188 Crore Warrant Issue to Non-Promoter Investors - Kalkine Media,False
-2026-11-27,HYUNDAI,5,DROP,Consumer Cyclical,False,False,True,True,7.0,,2112.0,2064.1,2159.9,2207.8,"failed: Trend & RS, Fundamentals","Hyundai Motor India shares jump 5%: Nomura, BofA, other analysts share insights post Q4 performance - Upstox",False
-2026-11-27,URBANCO,5,DROP,Technology,True,False,True,False,3.0,,164.85,159.9,169.8,174.75,"failed: Fundamentals, News",URBANCO Forecast — Price Target — Prediction for 2027 - TradingView,False
-2026-11-27,ZIMLAB,5,DROP,Healthcare,True,False,False,True,6.0,,141.77,132.61,150.93,160.09,"failed: Fundamentals, Risk","Zim Laboratories (NSE:ZIMLAB) Q2 FY27: Revenue Up 18.9%, Loss Narrows QoQ - Kalkine India",False
-2026-11-27,KARURVYSYA,5,DROP,Financial Services,True,True,True,False,,,378.75,370.75,386.75,394.75,failed: News,Karur Vysya Bank shares jump over 11% after strong Q1 show on interest income growth; key things to know - Upstox,False
-2026-11-27,ENTERO,5,DROP,Healthcare,True,True,True,True,3.0,,1898.0,1781.0,2015.0,2132.0,F-score 3<4,"Entero Healthcare (NSE:ENTERO) Approves 43,155 ESOP Shares: What It Means for Investors - Kalkine Media",False
+2026-11-28,FEDERALBNK,5,TRUST,Financial Services,True,True,True,True,,,356.85,353.6,360.1,363.35,cleared all 5 gates,FEDERALBNK Forecast — Price Target — Prediction for 2027 - TradingView,True
+2026-11-28,MANAKCOAT,5,TRUST,Industrials,True,True,True,True,5.0,,160.46,151.51,169.41,178.36,cleared all 5 gates,Manaksia Coated Metals & Industries' (NSE:MANAKCOAT) Earnings Are Of Questionable Quality - Simply Wall St,True
+2026-11-28,DCBBANK,5,DROP,Financial Services,True,True,True,False,,,227.17,221.46,232.88,238.58,failed: News,"DCB Bank soars 10% on huge volume, nears 52-week high post Q1 results - Business Standard",False
